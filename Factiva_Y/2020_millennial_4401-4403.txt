@@ -1,0 +1,158 @@
+Skip to main content <#PageBaseForm>
+
+
+  Dow Jones Factiva
+
+	Dow Jones
+
+*SE* 	Business
+*HD* 	Fashion giant Uniqlo's sales grow by 25% in Australia
+*BY* 	Patrick Hatch
+*WC* 	516 words
+*PD* 	1 January 2020
+*SN* 	The Sydney Morning Herald
+*SC* 	SMHH
+*ED* 	First
+*PG* 	22
+*LA* 	English
+*CY* 	© 2020 Copyright John Fairfax Holdings Limited.
+www.smh.com.au[http://www.smh.com.au]
+
+*LP* 
+
+	
+
+Fashion juggernaut Uniqlo has continued to rapidly grow its share of
+Australia's apparel market at the expense of struggling local retailers,
+reporting growth of 25 per cent this year.
+
+Uniqlo Australia's financial accounts, lodged with the corporate
+regulator on Monday, show its gross sales increased by $63 million to
+$306 million in the 12 months to August 31.
+
+
+*CO* 	
+aubos : Australian Bureau of Statistics | fstrt : Fast Retailing Co Ltd
+| myemp : Myer Holdings Ltd.
+
+*IN* 	
+i645 : Clothing Stores | i453 : Clothing | i64 : Retail/Wholesale | i654
+: Specialty Retailing | iclt : Clothing/Textiles | icnp : Consumer Goods
+| iretail : Retail | i656 : Mixed Retailing | i6560002 : Department Stores
+
+*NS* 	
+c151 : Earnings | c15 : Financial Performance | c1513 : Sales Figures |
+ccat : Corporate/Industrial News | ncat : Content Types | nfact :
+Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+austr : Australia | ausnz : Australia/Oceania | apacz : Asia Pacific
+
+*PUB* 	
+Fairfax Media Management Pty Limited
+
+*AN* 	
+Document SMHH000020191231eg110001n
+
+
+
+*SE* 	Life & Style
+*HD* 	‘Fansumers’ emerge as social media power brokers
+*BY* 	Park Yuna (yunapark@heraldcorp.com) Intern reporter Park Jun-hee
+contributed to this report. - Ed
+*WC* 	549 words
+*PD* 	1 January 2020
+*SN* 	The Korea Herald
+*SC* 	KORHER
+*LA* 	English
+*CY* 	(c) 2020 The Korea Herald
+
+*LP* 
+
+	
+
+In a KakaoTalk group chat gathering 300 fans of Pengsoo, users vented
+their anger when the character appeared at a promotional event for a
+movie on Dec. 16.
+
+Some of them insisted they should send emails of protest to the
+production team at Educational Broadcasting System and ask them to
+refrain from commercial uses of Pengsoo -- a costumed live-action
+penguin character that has quickly gained popularity in Korea for its
+straight-talking wit.
+
+
+*NS* 	
+gcat : Political/General News
+
+*RE* 	
+skorea : South Korea | apacz : Asia Pacific | asiaz : Asia | easiaz :
+Eastern Asia
+
+*PUB* 	
+Herald Corporation
+
+*AN* 	
+Document KORHER0020191231eg11000jh
+
+
+
+*SE* 	BOOKS
+*HD* 	An Incomplete Map of Uberland
+*BY* 	Brian Doherty
+*WC* 	1530 words
+*PD* 	1 January 2020
+*SN* 	Reason
+*SC* 	RESN
+*PG* 	56-57
+*VOL* 	Volume 51; Issue 8; ISSN:00486906
+*LA* 	English
+*CY* 	© 2020 Reason. Provided by ProQuest Information and Learning. All
+Rights Reserved.
+
+*LP* 
+
+	
+
+An Incomplete Map of Uberland Uberland: How Algorithms Are Rewriting the
+Rules of Work, by Alex Rosenblat, University of California Press, 271
+pages, $26.95
+
+In its eagerness to make the case against Uber, a new book makes a
+pretty good case for Uber.
+
+
+*CO* 	
+ftrade : Federal Trade Commission | ubrti : Uber Technologies Inc. |
+ubrib : Uber International B.V.
+
+*IN* 	
+iecom : E-commerce | iint : Online Service Providers | itech :
+Technology | itnsv : Sharing/On-demand Economy Services
+
+*NS* 	
+c31 : Marketing | gbook : Books | gcon : Consumer Affairs | grobb :
+Robbery | gsci : Sciences/Humanities | c13 : Regulation/Government
+Policy | ccat : Corporate/Industrial News | gcat : Political/General
+News | gcom : Society/Community | gcrim : Crime/Legal Action | gent :
+Arts/Entertainment | gtheft : Burglary/Theft | ncat : Content Types |
+nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+usa : United States | usca : California | namz : North America | usw :
+Western U.S.
+
+*IPD* 	
+Magazines | Reason Foundation | Review
+
+*PUB* 	
+Reason Foundation
+
+*AN* 	
+Document RESN000020191121eg1100001
+
+
+
+© 2020 Factiva, Inc. All rights reserved. 	
+ 
+

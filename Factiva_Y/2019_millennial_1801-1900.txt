@@ -1,0 +1,4521 @@
+Skip to main content <#PageBaseForm>
+
+
+  Dow Jones Factiva
+
+	Dow Jones
+
+*HD* 	Every new show and movie on Hulu: March 2019
+*WC* 	1026 words
+*PD* 	1 March 2019
+*SN* 	CNET News.com
+*SC* 	CNEWSN
+*LA* 	English
+*CY* 	(c) CNET Networks Inc. All Rights Reserved.
+
+*LP* 
+
+	
+
+As we head into spring, we're in for back-to-back superhero film
+releases right on through the summer. So why not get yourself in the
+cape-wearing mood with a few of the best? Christopher Nolan's Batman
+Begins[https://www.tvguide.com/movies/batman-begins/137932/] and The
+Dark Knight[https://www.tvguide.com/movies/the-dark-knight/290942/] hit
+Hulu today. And speaking of getting into the mood, you can revisit the
+Tim Burton classic, Edward
+Scissorhands[https://www.tvguide.com/movies/edward-scissorhands/128196/], before
+Dumbo[https://www.cnet.com/news/dumbo-teaser-flies-high-even-before-grammy-awards/]
+hits theaters at the end of March. 
+
+
+*CO* 	
+hulul : Hulu LLC
+
+*IN* 	
+i97411 : Broadcasting | i9741102 : Television Broadcasting | imed :
+Media/Entertainment
+
+*NS* 	
+gtvrad : Television/Radio | gmovie : Movies | gcat : Political/General
+News | gent : Arts/Entertainment
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+CNET Networks Inc.
+
+*AN* 	
+Document CNEWSN0020190301ef310002z
+
+
+
+*HD* 	Press Release: Meredith To Present At Deutsche Bank Investor
+Conference
+*WC* 	307 words
+*PD* 	1 March 2019
+*ET* 	18:00
+*SN* 	Dow Jones Institutional News
+*SC* 	DJDN
+*LA* 	English
+*CY* 	Copyright © 2019, Dow Jones & Company, Inc.
+
+*LP* 
+
+	
+
+Meredith To Present At Deutsche Bank Investor Conference
+
+PR Newswire
+
+
+*CO* 	
+merdco : Meredith Corporation | deut : Deutsche Bank AG
+
+*IN* 	
+i4752 : Magazine Publishing | i475 : Printing/Publishing | ibnk :
+Banking/Credit | ifinal : Financial Services | imed :
+Media/Entertainment | ipubl : Publishing | i814 : Banking | iibnk :
+Integrated Banks
+
+*NS* 	
+csched : Announcements of News Conferences/Calls | neqac : Equities
+Asset Class News | npress : Press Releases | c315 :
+Conferences/Exhibitions | ccat : Corporate/Industrial News | ncat :
+Content Types | nfact : Factiva Filters
+
+*RE* 	
+usa : United States | usia : Iowa | namz : North America | usc : Midwest
+U.S.
+
+*PUB* 	
+Dow Jones & Company, Inc.
+
+*AN* 	
+Document DJDN000020190301ef31001zb
+
+
+
+*SE* 	National-Politics
+*HD* 	America's most common questions about 2020 Democrats, answered
+*BY* 	By Philip Bump
+*WC* 	2941 words
+*PD* 	1 March 2019
+*SN* 	Washington Post.com
+*SC* 	WPCOM
+*LA* 	English
+*CY* 	Copyright 2019, The Washington Post Co. All Rights Reserved.
+
+*LP* 
+
+	
+
+Have you ever looked at your Google search history? It's a
+remarkable/embarrassing catalogue of all of the random things that
+popped into your head for which you were either unable or unwilling to
+get more information independently.
+
+This also holds true, of course, for politics. If you are curious about
+the presidential candidacy of, say, Sen. Kirsten Gillibrand (D-N.Y.),
+you are not going to trudge up to the address bar in your browser and
+try random dot-com-binations of "gillibrand," "2020" and "foramerica"
+like some cave man from the 1990s. You're going to go to Google and
+you're going to type "kirstne gilliubrand" or whatever is fastest, and
+Google's going to guide you to your destination like a kindergarten
+teacher on the first day of school.
+
+
+*CO* 	
+gognew : Google LLC | goog : Alphabet Inc.
+
+*IN* 	
+i8395464 : Internet Search Engines | iint : Online Service Providers |
+itech : Technology
+
+*NS* 	
+gptech : Personal Technology | glife : Living/Lifestyle | gpol :
+Domestic Politics | gvote1 : National/Presidential Elections | gcat :
+Political/General News | gpir : Politics/International Relations | gvote
+: Elections
+
+*RE* 	
+usa : United States | sant : San Antonio | usoh : Ohio | namz : North
+America | usc : Midwest U.S. | uss : Southern U.S. | ustx : Texas
+
+*IPD* 	
+politics
+
+*PUB* 	
+Washington Post
+
+*AN* 	
+Document WPCOM00020190301ef31003ml
+
+
+
+*SE* 	COL
+*HD* 	Unlike Warren Buffet, the world is missing the forest for the
+trees, evident in the proliferation of debt
+*BY* 	Andrew Sheng
+*WC* 	867 words
+*PD* 	1 March 2019
+*SN* 	scmp.com
+*SC* 	SCMCOM
+*LA* 	English
+*CY* 	(c) 2019 scmp.com. All rights reserved.
+
+*LP* 
+
+	
+
+There are few investors who deliver solid results year after year. Hedge
+funds often get spectacular results, then crash and burn. No wonder,
+then, that the world's most successful investor Warren Buffett's annual
+letter[http://berkshirehathaway.com/letters/2018ltr.pdf] to Berkshire
+Hathaway shareholders always makes fascinating reading.
+
+For 54 years, Berkshire Hathaway's per share market value return has
+posted a compounded annual gain of 20.5 per cent, more than double that
+of S&P 500 shares (with dividends included). In 2018, when global
+markets took a beating and the S&P 500 lost 4.4 per cent, Berkshire
+returned 2.8 per cent.
+
+
+*CO* 	
+bkht : Berkshire Hathaway Inc
+
+*IN* 	
+i8396 : Diversified Holding Companies | ibcs : Business/Consumer Services
+
+*NS* 	
+c151 : Earnings | c15 : Financial Performance | ccat :
+Corporate/Industrial News | ncat : Content Types | nfact : Factiva
+Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+eland : England | eecz : European Union Countries | eurz : Europe | uk :
+United Kingdom | weurz : Western Europe
+
+*PUB* 	
+South China Morning Post Publishers Limited
+
+*AN* 	
+Document SCMCOM0020190301ef3100036
+
+
+
+*HD* 	QYOU Media Reports Q2 FY2019 Results
+*CR* 	QYOU Media Inc.; Canada NewsWire
+*WC* 	1092 words
+*PD* 	1 March 2019
+*ET* 	17:15
+*SN* 	Canada NewsWire
+*SC* 	CNNW
+*LA* 	English
+*CY* 	Copyright © 2019 Canada NewsWire Ltd. All rights reserved.
+
+*LP* 
+
+	
+
+TORONTO and LOS ANGELES, March 1, 2019 /CNW/ - QYOU Media Inc. (TSXV:
+QYOU) (OTCQB: QYOUF) ("QYOU Media" or the "Company"), a next generation
+global media company that curates, packages and distributes premium
+digital short-form video for multiscreen distribution has reported
+financial results for the quarter ended December 31, 2018. All figures
+appear in Canadian dollars.
+
+https://mma.prnewswire.com/media/829011/QYOU_Media_Inc__QYOU_Media_Reports_Q2_FY2019_Results.jpg[https://mma.prnewswire.com/media/829011/QYOU_Media_Inc__QYOU_Media_Reports_Q2_FY2019_Results.jpg]
+
+
+
+*CO* 	
+gallr : QYOU Media Inc.
+
+*IN* 	
+i97411 : Broadcasting | i9741102 : Television Broadcasting | imed :
+Media/Entertainment
+
+*NS* 	
+ccat : Corporate/Industrial News | c151 : Earnings | npress : Press
+Releases | c15 : Financial Performance | ncat : Content Types | nfact :
+Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+cana : Canada | caon : Ontario | lax : Los Angeles | usca : California |
+namz : North America | usa : United States | usw : Western U.S.
+
+*IPC* 	
+FLM | ENT
+
+*IPD* 	
+QYOUMediaFY2019Result | QYOU Media Inc. | PR | ERN | ECO | BUSINESS
+EDITORS | FILM EDITORS | http://theqyou.com/
+
+*PUB* 	
+PR Newswire Association, Inc.
+
+*AN* 	
+Document CNNW000020190301ef31003ea
+
+
+
+*SE* 	CE Noticias Financieras English
+*HD* 	They are salty!
+*WC* 	608 words
+*PD* 	1 March 2019
+*SN* 	CE NoticiasFinancieras
+*SC* 	NFINCE
+*LA* 	English
+*CY* 	Copyright © Content Engine LLC
+
+*LP* 
+
+	
+
+Red from Hawaii, pink from Celestun, black from India ... Origin and
+extraction process give the salts peculiar characteristics of mines
+called rock salt or rock. According to the Salt Institute, its
+extraction method includes underground work and dissolving mining
+techniques: drilling, introduction of freshwater under pressure and
+extraction of concentrated brine. Commonly, its process involves
+bleaching and purification. + Rosa del Himalaya: Originally from the
+district of Jerom, in Pakistan; It is extracted from the Khewra mine,
+one of the largest in the world, located between mountains. + Black from
+India: Of *millennial* use in Asia; Its flavor is predominantly
+sulfurous. After being extracted from the mines, it is processed with
+charcoal and plants. From sea and aquifers It is obtained from the
+evaporation of salt water. The collection technique is an important
+factor in the quality of this type of salt: it determines its intensity
+and flavor.
+
+
+*NS* 	
+npress : Press Releases | ncat : Content Types
+
+*RE* 	
+monter : Monterrey | mex : Mexico | devgcoz : Emerging Market Countries
+| dvpcoz : Developing Economies | lamz : Latin America | namz : North
+America
+
+*PUB* 	
+Content Engine LLC
+
+*AN* 	
+Document NFINCE0020190301ef310056j
+
+
+
+*HD* 	BREAKINGVIEWS-Moncler’s strength will whet its M&A appetite
+*WC* 	550 words
+*PD* 	1 March 2019
+*ET* 	16:06
+*SN* 	Reuters News
+*SC* 	LBA
+*LA* 	English
+*CY* 	Copyright 2019 Thomson Reuters. All Rights Reserved.
+
+*LP* 
+
+	
+
+(The author is a Reuters Breakingviews columnist. The opinions expressed
+are her own.)
+
+By Karen Kwok
+
+
+*NS* 	
+nedc : Commentaries/Opinions | ncat : Content Types | nfact : Factiva
+Filters | nfcpex : C&E Executive News Filter
+
+*RE* 	
+uk : United Kingdom | shand : Shandong | apacz : Asia Pacific | asiaz :
+Asia | bric : BRICS Countries | china : China | chinaz : Greater China |
+devgcoz : Emerging Market Countries | dvpcoz : Developing Economies |
+easiaz : Eastern Asia | eecz : European Union Countries | eurz : Europe
+| weurz : Western Europe
+
+*IPC* 	
+SERVICE:SOF | SERVICE:M | SERVICE:Z | SERVICE:E | SERVICE:C |
+SERVICE:ABN | SERVICE:GRO | SERVICE:PSC | SERVICE:U | SERVICE:O |
+SERVICE:MTL | SERVICE:UCDPTEST | SERVICE:BRVW | SERVICE:D | SERVICE:RBN
+| SERVICE:OIL | LANG:en | OEC | APPA | APRET | APRET1 | BACT | BEV |
+BEVS | BISV | BISV08 | BNKS | BSVC | CCOS | CMPNY | CYCP | CYCP08 | CYCS
+| CYCS08 | DBT | ENTS | FDK | FIN | FINS | FINS08 | FOBE | FOD | HOREIT
+| INVBIS | INVBNK | INVBR | INVS08 | LIQS | LUX | MEVN | NATFAB | NCYC |
+REA | REAL | REISP | REIT | RES | RET | SHOP | SHOPAL | SPCRET | STAY |
+STX | TEX | TXTL | UK | WEAR | WEAR1 | WLTH | XDNP | XPCO | XPMF | XRNP
+
+*IPD* 	
+Business | Economy | Entertainment and Lifestyle | Asia | Europe | US |
+UK | United Kingdom | Reuters Breakingviews Full | Western Europe | East
+Asia | Americas | United States | Italy | Reports | Columns | Hong Kong
+| Euro Zone | North America | Reuters Breakingviews | Emerging Market
+Countries | China (PRC) | Asia / Pacific | France |
+MONCLER-RESULTS/BREAKINGVIEWS | LVMH Moet Hennessy Louis Vuitton SA |
+Shandong Jining Ruyi Woolen Textile Co Ltd | Fosun International Ltd |
+MONCLER | RESULTS | BREAKINGVIEWS
+
+*PUB* 	
+Thomson Reuters (Markets) LLC
+
+*AN* 	
+Document LBA0000020190301ef3101snu
+
+
+
+*SE* 	CE Noticias Financieras English
+*HD* 	Internet ON, the company that already uses Red Compartida
+*WC* 	630 words
+*PD* 	1 March 2019
+*SN* 	CE NoticiasFinancieras
+*SC* 	NFINCE
+*LA* 	English
+*CY* 	Copyright © Content Engine LLC
+
+*LP* 
+
+	
+
+Internet ON, a service that uses three technologies to serve its
+customers - satellite, fixed wireless and wired, began operating in
+September last year with Red Compartida, the public-private wholesale
+telecommunications project by Altán Redes. In December, it launched its
+satellite offer, and it has only been a couple of months on Telmex's
+fiber optic and copper networks. Lorenzo Orozco, director of the firm,
+tells his plans. EXPANSION: How did the idea of providing an internet
+service in Dish come about? LORENZO OROZCO: Ten years ago, when they
+said that pay television would only reach 12 million customers, Dish
+brought the service with coverage to all of Mexico, breaking that
+digital entertainment gap. Now we want to do the same with the internet,
+it is evolution, we have to enter the internet market because of the
+convergence that exists in all services, and now entertainment services
+are on that platform.
+
+
+*IN* 	
+i751 : Space Transport | i7902 : Telecommunication Services | i79022 :
+Wireless Telecommunications Services | iint : Online Service Providers |
+ifbropt : Fiber Optic Equipment | i3302 : Computers/Consumer Electronics
+| i3303 : Networking | i3441 : Telecommunications Equipment | ibrdbi :
+Broadband Equipment | itech : Technology | itsp : Transportation/Logistics
+
+*NS* 	
+npress : Press Releases | ncat : Content Types
+
+*RE* 	
+mex : Mexico | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | lamz : Latin America | namz : North America
+
+*PUB* 	
+Content Engine LLC
+
+*AN* 	
+Document NFINCE0020190301ef310055k
+
+
+
+*SE* 	News
+*HD* 	What consumer trends are shaping India's foodservice growth?
+*BY* 	Mini Pant Zachariah
+*WC* 	1295 words
+*PD* 	1 March 2019
+*SN* 	Just-Food
+*SC* 	JUFOO
+*LA* 	English
+*CY* 	© 2019 Aroq Limited. All rights reserved
+
+*LP* 
+
+	
+
+India has an expanding foodservice market but how can manufacturers
+doing business in the country harness that growth? Mini Pant Zachariah
+reports back from India Food Forum 2019.
+
+There are big revenues to be tapped for suppliers into India's
+foodservice industry.
+
+
+*CO* 	
+fdichc : Federation of Indian Chambers of Commerce and Industry
+
+*IN* 	
+i662 : Bars/Public Houses | i66 : Hotels/Restaurants | ilea :
+Leisure/Arts/Hospitality
+
+*NS* 	
+c15 : Financial Performance | c151 : Earnings | cmarkr : Market
+Research/Consumer Trends | ccat : Corporate/Industrial News | cdom :
+Domestic/Foreign Markets | ncat : Content Types | nfact : Factiva
+Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Aroq Limited
+
+*AN* 	
+Document JUFOO00020190301ef310008d
+
+
+
+*SE* 	Fashion
+*HD* 	These avocado toast-themed trainers bring a whole new meaning to
+health kick
+*BY* 	Danielle de Wolfe
+*WC* 	415 words
+*PD* 	1 March 2019
+*ET* 	16:15
+*SN* 	Evening Standard Online
+*SC* 	NSONL
+*LA* 	English
+*CY* 	© 2019. Independent Digital News and Media Ltd. All Rights Reserved
+
+*LP* 
+
+	
+
+Who wants their breakfast on their feet?
+
+Matching your footwear with your brunch plate is now most definitely a
+thing courtesy of these eye-catching avocado on toast inspired trainers.
+
+
+*NS* 	
+gfas : Fashion | gcat : Political/General News | glife : Living/Lifestyle
+
+*RE* 	
+uk : United Kingdom | eecz : European Union Countries | eurz : Europe |
+weurz : Western Europe
+
+*PUB* 	
+Evening Standard Limited
+
+*AN* 	
+Document NSONL00020190301ef31003eb
+
+
+
+*SE* 	CE Noticias Financieras English
+*HD* 	"Wound" open, high political cost
+*WC* 	390 words
+*PD* 	1 March 2019
+*SN* 	CE NoticiasFinancieras
+*SC* 	NFINCE
+*LA* 	English
+*CY* 	Copyright © Content Engine LLC
+
+*LP* 
+
+	
+
+The wound is opened by the tragic events of December 24, as is
+skepticism, which for some is synonymous with suspicion, which makes the
+consequences of all kinds, including politics, more harmful.
+
+The absurd response of the SCT to a request for information from
+MILENIO, to put it mildly, in the sense of reserving for reasons of
+"national security" the audio recordings of the pilot and the tower,
+until the end of the sexennium, returned the subject, and Maybe the
+anger, all the poblanos.
+
+
+*NS* 	
+gpol : Domestic Politics | npress : Press Releases | gcat :
+Political/General News | gpir : Politics/International Relations | ncat
+: Content Types
+
+*PUB* 	
+Content Engine LLC
+
+*AN* 	
+Document NFINCE0020190301ef31004cg
+
+
+
+*HD* 	Raisins Market Size Worth Around USD 2.1 billion by 2026: Acumen
+Research and Consulting
+*WC* 	871 words
+*PD* 	1 March 2019
+*SN* 	Emirates News Agency (WAM)
+*SC* 	EMNEAG
+*LA* 	English
+*CY* 	© 2019, Emirates News Agency (WAM), All rights Reserved - Provided
+by SyndiGate Media Inc..
+
+*LP* 
+
+	
+
+(GlobeNewswire) - The worldwide raisins market value is foretold to
+touch USD 2.1 billion by 2026 and the market is anticipated to showcase
+a CAGR of 6.0% during the coming years.
+
+Free Download Sample Report Pages For Better understanding@
+https://www.acumenresearchandconsulting.com/request-sample/1173[https://www.acumenresearchandconsulting.com/request-sample/1173]
+
+
+
+*IN* 	
+i419 : Bread/Bakery Products | i4142 : Food Canning/Pickling/Drying |
+i42391 : Snack Foods | i41 : Food/Beverages | i414 : Food
+Preserving/Speciality Foods | icnp : Consumer Goods | ifood : Food Products
+
+*NS* 	
+ciprof : Industry Profile | ccat : Corporate/Industrial News
+
+*RE* 	
+usa : United States | namz : North America
+
+*IPD* 	
+Financial Services
+
+*PUB* 	
+The Emirates News Agency
+
+*AN* 	
+Document EMNEAG0020190301ef31000dx
+
+
+
+*HD* 	Clinique signs Radhika Apte as first brand ambassador for India
+*BY* 	Indiantelevision.com Team
+*CR* 	Distributed by Contify.com
+*WC* 	356 words
+*PD* 	1 March 2019
+*SN* 	Indiantelevision.com
+*SC* 	ATINTV
+*LA* 	English
+*CY* 	Copyright © 2019. Indiantelevision.com
+
+*LP* 
+
+	
+
+MUMBAI: Clinique, the skin care brand has introduced Bollywood actress
+Radhika Apte as its first brand ambassador for India. Known for her
+real, natural and authentic approach to beauty, Apte exemplifies
+Clinique's philosophy of empowering, inspiring and delivering happiness
+to women by celebrating natural beauty through great skin.
+
+
+*IN* 	
+i2583 : Skin Care Products | i258 : Cosmetics/Toiletries | icnp :
+Consumer Goods | ipcare : Personal Care Products/Appliances
+
+*NS* 	
+ccat : Corporate/Industrial News
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Indiantelevision Dot Com Pvt. Ltd.
+
+*AN* 	
+Document ATINTV0020190301ef3100003
+
+
+
+*SE* 	Do This
+*HD* 	Highlights of the Flower Show
+*BY* 	By Bethany Ao, STAFF WRITER
+*WC* 	875 words
+*PD* 	1 March 2019
+*SN* 	The Philadelphia Daily News
+*SC* 	PDN
+*PG* 	26
+*LA* 	English
+*CY* 	© Copyright 2019, Philadelphia Newspapers. All Rights Reserved.
+
+*LP* 
+
+	
+
+The Philadelphia Flower Show is back, sporting a ’60s theme and a
+high-stakes competition among the world’s best florists. If you’re
+planning to head to the Convention Center (1101 Arch St.) between
+Saturday, March 2, and Sunday, March 10, here’s a list of events and
+attractions you won’t want to miss.
+
+SEPTA
+
+
+*RE* 	
+usa : United States | phili : Philadelphia | namz : North America | use
+: Northeast U.S. | uspa : Pennsylvania
+
+*PUB* 	
+Philadelphia Newspapers, LLC
+
+*AN* 	
+Document PDN0000020190301ef310000t
+
+
+
+*HD* 	Not just virtual, but reality: how startups are tapping India's
+vast religious services market with technology
+*BY* 	Sutrishna Ghosh
+*CR* 	Distributed by Contify.com
+*WC* 	1222 words
+*PD* 	1 March 2019
+*SN* 	Your Story
+*SC* 	ATYOST
+*LA* 	English
+*CY* 	Copyright © 2019 Your Story.
+
+*LP* 
+
+	
+
+A new breed of religious services startups is tapping the vast,
+unorganised market in India by using tech-driven solutions and helping
+out a time-starved generation of believers.
+
+At the recent Kumbh Mela - a mass pilgrimage lasting over a month in
+Prayag - Uttar Pradesh Chief Minister Yogi Adityanath inaugurated a
+virtual reality stall that allowed eager followers to queue up and
+experience the marvels of the Kumbh through virtual reality (VR).
+
+
+*NS* 	
+centrp : Entrepreneurs/Startups | grel : Religion | ccat :
+Corporate/Industrial News | gcat : Political/General News | gcom :
+Society/Community
+
+*RE* 	
+india : India | uttar : Uttar Pradesh | asiaz : Asia | bric : BRICS
+Countries | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | indsubz : Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+YourStory.in
+
+*AN* 	
+Document ATYOST0020190301ef3100001
+
+
+
+*SE* 	BUSINESS
+*HD* 	BIZ-SKODA-ORIX-LEASE
+*WC* 	263 words
+*PD* 	1 March 2019
+*SN* 	Press Trust of India
+*SC* 	PRTRIN
+*LA* 	English
+*CY* 	Copyright 2019. The Press Trust of India Limited.
+
+*LP* 
+
+	
+
+Skoda, Orix Auto Infra join hands for car rental solutions
+
+Mumbai, Mar 1 (PTI) The Indian arm of the Czech car
+
+
+*CO* 	
+aznpmb : Skoda Auto as | vlkwag : Volkswagen AG
+
+*IN* 	
+i351 : Motor Vehicles | i35101 : Passenger Cars | iaut : Automotive
+
+*NS* 	
+ccat : Corporate/Industrial News
+
+*RE* 	
+india : India | mumbai : Mumbai | mahara : Maharashtra | asiaz : Asia |
+bric : BRICS Countries | devgcoz : Emerging Market Countries | dvpcoz :
+Developing Economies | indsubz : Indian Subcontinent | sasiaz : Southern
+Asia
+
+*PUB* 	
+Press Trust Of India Limited
+
+*AN* 	
+Document PRTRIN0020190301ef3100dqh
+
+
+
+*SE* 	Market Trends
+*HD* 	‘Food will define the future’: Compass CEO sees tech and trends
+transforming the food system
+*BY* 	Katy Askew
+*WC* 	838 words
+*PD* 	1 March 2019
+*SN* 	WRBM Global Food
+*SC* 	GFOOD
+*LA* 	English
+*CY* 	© WRBM Global Food. William Reed Business Media Ltd
+
+*LP* 
+
+	
+
+More than any other sector, the food industry will be key to achieving a
+sustainable future. Technological innovations and emerging trends play
+an essential role in reaching this goal, says Compass CEO Dominic Blakemore.
+
+“Food will define the future more than any other sector. What we eat,
+how we produce it and how it gets to us has the greatest impact on the
+environment and public health,” Blakemore told an audience of around 700
+industry leaders and academics at the Guildhall, London, this week (26
+February).
+
+
+*IN* 	
+i41 : Food/Beverages | ifood : Food Products | icnp : Consumer Goods
+
+*NS* 	
+gobes : Obesity | cslmc : Senior Level Management | gsust : Sustainable
+Development/Sustainability | c41 : Management | ccat :
+Corporate/Industrial News | gcat : Political/General News | gcom :
+Society/Community | genv : Natural Environment | ghea : Health | gmed :
+Medical Conditions | gsoc : Social Issues | ncat : Content Types | nfact
+: Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+uk : United Kingdom | eecz : European Union Countries | eurz : Europe |
+weurz : Western Europe
+
+*IPD* 	
+Market Trends
+
+*PUB* 	
+William Reed Business Media LTD.
+
+*AN* 	
+Document GFOOD00020190301ef3100009
+
+
+
+*HD* 	Symrise senses plenty of opportunity in India’s luxury fragrance
+industry
+*BY* 	Amanda Lim
+*WC* 	901 words
+*PD* 	1 March 2019
+*SN* 	WRBM Global Cosmetics
+*SC* 	GCOSM
+*LA* 	English
+*CY* 	© WRBM Global Cosmetics. William Reed Business Media Ltd
+
+*LP* 
+
+	
+
+German fragrance maker Symrise believes it has cracked the code to
+succeeding in India’s world of fine fragrances.
+
+As India becomes increasingly sophisticated and refined, creating
+luxurious perfumes comes with new challenges.
+
+
+*CO* 	
+symrse : Symrise AG
+
+*IN* 	
+ifinefp : Fragrance/Perfume | i258 : Cosmetics/Toiletries | icnp :
+Consumer Goods | iluxgds : Luxury Goods | ipcare : Personal Care
+Products/Appliances | i25 : Chemicals | ibasicm : Basic Materials/Resources
+
+*NS* 	
+ccat : Corporate/Industrial News
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+William Reed Business Media LTD.
+
+*AN* 	
+Document GCOSM00020190301ef3100002
+
+
+
+*SE* 	Entertainment
+*HD* 	How I gave myself a friendship makeover
+*BY* 	Jen Kirsch Special to the Star
+*WC* 	1340 words
+*PD* 	1 March 2019
+*SN* 	The Toronto Star
+*SC* 	TOR
+*ED* 	ONT
+*PG* 	E1
+*LA* 	English
+*CY* 	Copyright (c) 2019 The Toronto Star
+
+*LP* 
+
+	
+
+At the start of 2019, I made no resolutions, but I had become aware that
+the one-sided nature of some of my friendships was leaving me feeling
+underwhelmed.
+
+I am a society and culture writer and spend most of my weeknight
+evenings at parties, events, openings and launches.
+
+
+*NS* 	
+gent : Arts/Entertainment | gcat : Political/General News
+
+*RE* 	
+cana : Canada | namz : North America
+
+*PUB* 	
+Toronto Star Newspapers Limited
+
+*AN* 	
+Document TOR0000020190301ef31000to
+
+
+
+*SE* 	Luxury
+*HD* 	London's poshest pancakes: the best restaurants to celebrate
+Shrove Tuesday 2019
+*BY* 	By Sarah Royce-Greensill
+*WC* 	1383 words
+*PD* 	1 March 2019
+*ET* 	13:21
+*SN* 	The Telegraph Online
+*SC* 	TELUK
+*LA* 	English
+*CY* 	The Telegraph Online © 2019. Telegraph Media Group Ltd.
+
+*LP* 
+
+	
+
+For those who prefer to let someone else do the batter whipping and
+pancake flipping, London is awash with decadent places to celebrate
+Shrove
+Tuesday[https://www.telegraph.co.uk/food-and-drink/features/pancake-day-2019-shrove-tuesday-year-best-recipes-try/]
+on 5th March.
+
+From Crêpes Suzette flambéed tableside at The Ritz, to create-your-own
+stacks of fluffy American-style pancakes at Christopher’s, these 12
+restaurants elevate even the classic lemon-and-sugar to a dish worth
+dining out for.
+
+
+*RE* 	
+london : London (UK) | eecz : European Union Countries | eland : England
+| eurz : Europe | uk : United Kingdom | weurz : Western Europe
+
+*PUB* 	
+Telegraph Media Group Ltd.
+
+*AN* 	
+Document TELUK00020190222ef2m002e6
+
+
+
+*HD* 	Walmart CEO-Walmart eCommerce U.S. Marc Lore's value of investment
+increases by $8.5 million in January
+*WC* 	1775 words
+*PD* 	1 March 2019
+*SN* 	People in Business
+*SC* 	NBPPBS
+*LA* 	English
+*CY* 	Copyright 2019. News Bites Pty Ltd.
+
+*LP* 
+
+	
+
+Walmart (NYSE:WMT) CEO-Walmart eCommerce U.S. Marc Lore holds 3,119,648
+shares worth US$310.1 million at the last price of US$99.4, a rise in
+value by US$8.5 million (2.8%). A month ago Marc Lore held the same
+number of shares.
+
+Insider Ownership Summary (End of month)
+
+
+*CO* 	
+wlmrt : Walmart Inc
+
+*IN* 	
+iecom : E-commerce | iint : Online Service Providers | itech :
+Technology | i64 : Retail/Wholesale | i656 : Mixed Retailing | i6560011
+: Shopping Malls/Superstores | iretail : Retail
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+News Bites Pty Ltd (Europe)
+
+*AN* 	
+Document NBPPBS0020190301ef3100cfj
+
+
+
+*HD* 	How to Turn Unwanted Jewelry into Experiences, Like Travel
+*WC* 	715 words
+*PD* 	1 March 2019
+*ET* 	13:40
+*SN* 	PR Newswire
+*SC* 	PRN
+*LA* 	English
+*CY* 	Copyright © 2019 PR Newswire Association LLC. All Rights Reserved.
+
+*LP* 
+
+	
+
+Diamonds never lose their luster but jewelry styles do - so how do you turn unwanted treasures into cash and experiences? Turn to diamond and jewelry experts like D. Atlas Estates to learn more. 
+ 
+
+HAVERFORD, Pa., March 1, 2019 /PRNewswire-PRWeb/ -- Haverford-based D.
+Atlas Estates has been helping clients turn unwanted jewelry into cash
+and experiences for the past 46-years. "Today, more and more clients
+tell me they (and their children) don't want their parent's jewelry,"
+says owner and diamond expert, Steven Schiffman.
+
+
+*IN* 	
+ifinej : Jewelry | icnp : Consumer Goods | iluxgds : Luxury Goods
+
+*NS* 	
+npress : Press Releases | ncat : Content Types
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+PR Newswire Association, Inc.
+
+*AN* 	
+Document PRN0000020190301ef310003f
+
+
+
+*CLM* 	Times Insider
+*SE* 	Reader Center
+*HD* 	How a Reporter Made Sense of the Vermin in Your Instagram Feed
+*BY* 	By Katie Van Syckle
+*WC* 	769 words
+*PD* 	1 March 2019
+*ET* 	13:00
+*SN* 	NYTimes.com Feed
+*SC* 	NYTFEED
+*LA* 	English
+*CY* 	Copyright 2019. The New York Times Company. All Rights Reserved.
+
+*LP* 
+
+	
+
+Times Insider[https://www.nytimes.com/series/times-insider] explains who
+we are and what we do, and delivers behind-the-scenes insights into how
+our journalism comes together.
+
+The reporter Gray Chapman was already endeared to opossums when she
+first spotted the pointy-faced, small-handed marsupials in her social
+media feed.
+
+
+*NS* 	
+ncolu : Columns | ncat : Content Types
+
+*RE* 	
+usa : United States | namz : North America
+
+*IPD* 	
+Social Media | Animals | Opossums | News | Instagram Inc
+
+*PUB* 	
+The New York Times Company
+
+*AN* 	
+Document NYTFEED020190301ef310033a
+
+
+
+*HD* 	Live it!: Weekend by numbers 01.03.19 to 03.03.19
+*BY* 	By Sophiya Sabapathy
+*WC* 	832 words
+*PD* 	1 March 2019
+*SN* 	The Edge Financial Daily
+*SC* 	THEDGE
+*LA* 	English
+*CY* 	(c) 2019 The Edge Communications Sdn Bhd
+
+*LP* 
+
+	
+
+This article first appeared in The Edge Financial Daily, on March 1, 2019.
+
+3 plays to watch
+
+
+*RE* 	
+kuala : Kuala Lumpur | malay : Malaysia | apacz : Asia Pacific | asiaz :
+Asia | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | seasiaz : Southeast Asia
+
+*PUB* 	
+The Edge Communications Sdn Bhd.
+
+*AN* 	
+Document THEDGE0020190301ef310000u
+
+
+
+*HD* 	University of Liverpool: Study finds depression in millennials on
+the rise
+*WC* 	889 words
+*PD* 	1 March 2019
+*SN* 	ENP Newswire
+*SC* 	ENPNEW
+*LA* 	English
+*CY* 	(c) 2019, Electronic News Publishing. All Rights Reserved.
+
+*LP* 
+
+	
+
+Release date - 28022019
+
+New research, conducted by the University of Liverpool and University
+College London, has found that young people today are more likely to be
+depressed and to self-harm than they were 10 years ago, but antisocial
+behaviour and substance use - often thought to go hand-in-hand with
+mental ill-health - are in decline.
+
+
+*CO* 	
+ucolll : University College London | unliv : University of Liverpool
+
+*NS* 	
+gcrese : Medical Research | gobes : Obesity | gcoho : Generational
+Cohorts | gdepr : Mood Disorders | gment : Mental Disorders | guni :
+University/College | npress : Press Releases | gcat : Political/General
+News | gcom : Society/Community | gedu : Education | ghea : Health |
+gmed : Medical Conditions | gsci : Sciences/Humanities | gsoc : Social
+Issues | ncat : Content Types
+
+*RE* 	
+eland : England | liverp : Liverpool | uk : United Kingdom | eecz :
+European Union Countries | eurz : Europe | weurz : Western Europe
+
+*PUB* 	
+Electronic News Publishing Ltd.
+
+*AN* 	
+Document ENPNEW0020190301ef310000s
+
+
+
+*SE* 	Globe Investor
+*HD* 	Retaining millennials begins with employee well-being
+*BY* 	By ADAM McHENRY
+*WC* 	732 words
+*PD* 	1 March 2019
+*SN* 	The Globe and Mail
+*SC* 	GLOB
+*ED* 	Ontario
+*PG* 	B11
+*LA* 	English
+*CY* 	©2019 The Globe and Mail Inc. All Rights Reserved.
+
+*LP* 
+
+	
+
+Integrating flexibility, transparency and personalization into a
+workplace strategy is vital for success today
+
+LEADERSHIP LAB CFA, investment adviser and portfolio manager, Manulife
+Securities Inc.
+
+
+*NS* 	
+gcoho : Generational Cohorts | gcat : Political/General News | gcom :
+Society/Community
+
+*RE* 	
+cana : Canada | namz : North America
+
+*PUB* 	
+The Globe and Mail Inc.
+
+*AN* 	
+Document GLOB000020190301ef310001g
+
+
+
+*SE* 	Drive
+*HD* 	No longer just for retirees, RVs find a *millennial* fan club
+*BY* 	By KATHERINE SCARROW
+*CR* 	Staff
+*WC* 	651 words
+*PD* 	1 March 2019
+*SN* 	The Globe and Mail
+*SC* 	GLOB
+*ED* 	Ontario
+*PG* 	D6
+*LA* 	English
+*CY* 	©2019 The Globe and Mail Inc. All Rights Reserved.
+
+*LP* 
+
+	
+
+Recreational vehicles are becoming increasingly attractive to younger
+crowds seeking to escape the city
+
+From the models on prominent display and the messaging on the floor of
+the Toronto RV Show in January, you wouldn't have known that the RV
+industry is in the midst of a renaissance. Baby boomers populated the
+crowd, at a time when experience-craving young people are truly
+propelling recreationalvehicle sales in Canada.
+
+
+*NS* 	
+gcoho : Generational Cohorts | gcat : Political/General News | gcom :
+Society/Community
+
+*RE* 	
+caon : Ontario | cana : Canada | namz : North America
+
+*PUB* 	
+The Globe and Mail Inc.
+
+*AN* 	
+Document GLOB000020190301ef310000v
+
+
+
+*SE* 	ST
+*HD* 	Razer Pay launches in Singapore for beta testing
+*WC* 	553 words
+*PD* 	1 March 2019
+*SN* 	The Straits Times
+*SC* 	STIMES
+*LA* 	English
+*CY* 	(c) 2019 Singapore Press Holdings Limited
+
+*LP* 
+
+	
+
+SINGAPORE - Local gaming company Razer's electronic payments wallet has
+hit Singapore's shores - albeit in a limited testing phase - half a year
+after it made its debut on the other side of the Causeway.
+
+The Razer Pay e-wallet was launched on Friday (March 1) for beta testing
+by gamers and other users, ahead of a full rollout that has now been
+scheduled for within the first six months of 2019.
+
+
+*NS* 	
+ccat : Corporate/Industrial News | c22 : New Products/Services | ncat :
+Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+singp : Singapore | malay : Malaysia | apacz : Asia Pacific | asiaz :
+Asia | devgcoz : Emerging Market Countries | dvpcoz : Developing
+Economies | seasiaz : Southeast Asia
+
+*PUB* 	
+Singapore Press Holdings Limited
+
+*AN* 	
+Document STIMES0020190301ef310025t
+
+
+
+*HD* 	Nikol Pashinyan in Isfahan: We will not allow anyone to use us as
+a coin in their geopolitical games
+*WC* 	1273 words
+*PD* 	1 March 2019
+*SN* 	ARMINFO News
+*SC* 	ARMNFE
+*LA* 	English
+*CY* 	(c) 2019 ARMINFO News Agency. Quotation to ARMINFO and its sources
+is required in case of citing or republication.
+
+*LP* 
+
+	
+
+Yerevan, March 1. ArmInfo. Naira Badalian. Prime Minister Nikol
+Pashinyan and Mrs. Anna Hakobyan visited the St. Amenaprkich Monastic
+complex in Isfahan, where they met with Primate of the Armenian Diocese
+of Isfahan, Bishop Sipan Kechejian, the press service of the Armenian
+Prime Minister informs.
+
+As they toured the monastic complex, the Prime Minister and his spouse
+visited the local museum to get acquainted with the latter's history.
+Then, Nikol Pashinyan and his delegation called at Ararat Club in
+Isfahan and met with thousands of representatives of the local Armenian
+community. The latter welcomed Prime Minister Pashinyan with warmth and
+heated applause.
+
+
+*NS* 	
+gpol : Domestic Politics | gcat : Political/General News | gpir :
+Politics/International Relations
+
+*RE* 	
+armen : Armenia | iran : Iran | yerevn : Yerevan | asiaz : Asia | dvpcoz
+: Developing Economies | gulfstz : Persian Gulf Region | meastz : Middle
+East | ussrz : CIS Countries | wasiaz : Western Asia
+
+*PUB* 	
+ARMINFO News Agency
+
+*AN* 	
+Document ARMNFE0020190301ef3100001
+
+
+
+*SE* 	MINT, Lounge
+*HD* 	Is time the ultimate luxury?
+*BY* 	Sohini Dey
+*WC* 	639 words
+*PD* 	1 March 2019
+*SN* 	Mint
+*SC* 	HNMINT
+*LA* 	English
+*CY* 	Copyright 2019. HT Media Limited. All rights reserved.
+
+*LP* 
+
+	
+
+New Delhi, March 1 -- Time is really the ultimate luxury," said
+Shivajirao Gaekwar, deputy director of Sotheby's Auction India, at the
+Global Luxury Realty Conclave (GLRC) 2019, a two-day conference (22-23
+February) of luxury realty developers, stakeholders in luxury industries
+and high net worth individuals, organized by Sotheby's International
+Realty in Delhi. "You need enough time to see art, you need enough time
+to think about what you're going to buy," he added.
+
+Leisure has always been crucial to luxury pursuits, but globalization
+and amplified connectivity make time more valuable than ever before.
+Gaekwar brought up time as luxury in the context of collecting art. Yet
+the meaning and impact of luxury in a new world became a recurrent point
+of discussion across sessions.
+
+
+*CO* 	
+sirai : Sotheby's International Realty Affiliates, Inc. | apolmn :
+Apollo Global Management LLC | rlgycp : Realogy Holdings Corp.
+
+*IN* 	
+i834 : Real Estate Agents/Brokers | icre : Real Estate/Construction |
+ireest : Real Estate
+
+*NS* 	
+gartau : Art Collecting/Sales | gart : Art | gcat : Political/General
+News | gent : Arts/Entertainment
+
+*RE* 	
+india : India | delhi : Delhi | asiaz : Asia | bric : BRICS Countries |
+devgcoz : Emerging Market Countries | dvpcoz : Developing Economies |
+indsubz : Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+HT Digital Streams Limited
+
+*AN* 	
+Document HNMINT0020190301ef31000bj
+
+
+
+*HD* 	Parky at the Pictures (DVD 28/2/2019)
+*BY* 	Parky at the Pictures
+*WC* 	8480 words
+*PD* 	1 March 2019
+*SN* 	The Oxford Times
+*SC* 	NQTNC
+*LA* 	English
+*CY* 	© Copyright 2019 Newsquest Digital Media
+
+*LP* 
+
+	
+
+Bill Morrison is the master of the archive movie. Since 1990, he has
+produced over 35 experimental films that have re-animated moving images
+that had not seen a projector beam in years. Among his best-known works
+are Decasia (2002) and The Miners' Hymns (2011) and his latest opus,
+Dawson City: Frozen Time is now available on disc from Second Run.
+
+
+*NS* 	
+gcom : Society/Community | gmovie : Movies | gcat : Political/General
+News | gent : Arts/Entertainment
+
+*RE* 	
+cayt : Yukon | nyc : New York City | cana : Canada | namz : North
+America | usa : United States | use : Northeast U.S. | usny : New York State
+
+*PUB* 	
+Newsquest Digital Media
+
+*AN* 	
+Document NQTNC00020190301ef310002t
+
+
+
+*SE* 	current
+*HD* 	Gennext; Are law firms ready for Generation Z, the tweeting,
+texting new kids on the block? They'd better be.
+*BY* 	By Meghan Tribe
+*WC* 	1582 words
+*PD* 	1 March 2019
+*SN* 	American Lawyer
+*SC* 	ALAW
+*PG* 	38
+*VOL* 	Volume 41; Issue 3
+*LA* 	English
+*CY* 	Copyright 2019 LexisNexis, a Division of Reed Elsevier, Inc. All
+Rights Reserved.
+
+*LP* 
+
+	
+
+MOVE OVER, MILLENNIALS, THERE'S A NEW KID looming on the legal beat.
+
+Seemingly born with smartphones in hand, Generation Z is a generation of
+digital natives. Its members grew up alongside the internet, and
+technology has been a part of their lives from the very beginning. They
+may share some characteristics with their *millennial* counterparts,
+including a commitment to social justice, but the next crop of lawyers
+will present unique challenges for their future employers. With the
+oldest members of Generation Z currently making their way through law
+school, life in Big Law is on the horizon. Are law firms ready?
+
+
+*CO* 	
+pewrcp : Pew Research Center
+
+*IN* 	
+ismart : Smartphones | i3302 : Computers/Consumer Electronics | i3441 :
+Telecommunications Equipment | i34411 : Mobile Communications Devices |
+i3454 : Personal Electronics | icellph : Cellular/Mobile Phones | ielec
+: Consumer Electronics | ihandaps : Handheld Electronic Devices | itech
+: Technology
+
+*NS* 	
+gcoho : Generational Cohorts | gcat : Political/General News | gcom :
+Society/Community
+
+*IPD* 	
+news | TAL_2019_03_01 | Legal Professionals
+
+*PUB* 	
+LexisNexis, a Division of Reed Elsevier, Inc.
+
+*AN* 	
+Document ALAW000020190301ef310000f
+
+
+
+*SE* 	National Desk; SECTA
+*HD* 	As G.O.P. Trust in Climate Science Widens, an Isolated Trump
+Hunkers Down
+*BY* 	By CORAL DAVENPORT
+*WC* 	1561 words
+*PD* 	1 March 2019
+*SN* 	The New York Times
+*SC* 	NYTF
+*ED* 	Late Edition - Final
+*PG* 	18
+*LA* 	English
+*CY* 	Copyright 2019 The New York Times Company. All Rights Reserved.
+
+*LP* 
+
+	
+
+WASHINGTON -- New efforts by President Trump and his staff to question
+or undermine the established science of climate change have created a
+widening rift between the White House on one side, and scientific facts,
+government agencies, and some leading figures in the president's own
+party on the other.
+
+The president's senior advisers are exploring the idea of creating a
+panel aimed at questioning the National Climate Assessment. According to
+a White House memo, the group would include William Happer, a Princeton
+physicist who has asserted that carbon dioxide -- a greenhouse gas that
+scientists say is trapping heat and warming the planet -- is beneficial
+to humanity.
+
+
+*NS* 	
+gclimt : Climate Change | gvexe : Executive Branch | gpol : Domestic
+Politics | gcat : Political/General News | genv : Natural Environment |
+gglobe : Global/World Issues | gpir : Politics/International Relations |
+gvbod : Government Bodies
+
+*RE* 	
+usa : United States | usdc : Washington DC | namz : North America | uss
+: Southern U.S.
+
+*IPD* 	
+National Desk
+
+*PUB* 	
+The New York Times Company
+
+*AN* 	
+Document NYTF000020190301ef310003k
+
+
+
+*HD* 	Facebook makes inroads in enterprises with Workplace
+*BY* 	Rohan Pearce
+*WC* 	1095 words
+*PD* 	1 March 2019
+*SN* 	Computerworld Australia
+*SC* 	IDGCWA
+*LA* 	English
+*CY* 	(c) 2019 IDG Communications Pty Ltd. All Rights Reserved
+
+*LP* 
+
+	
+
+Well-known Australian brands including large enterprises such as NAB are
+among the businesses that have helped drive Workplace by Facebook to 2
+million paid individual users.
+
+The social media giant today released figures on the adoption of its
+business-focused collaboration offering, revealing that some 30,000
+organisations are actively using Workplace by Facebook and Workplace for
+Good. (Workplace for Good is a free version for not-for-profit
+organisations and educational institutions).
+
+
+*CO* 	
+onlnfr : Facebook Inc
+
+*IN* 	
+i3302 : Computers/Consumer Electronics | icomp : Computing | itech :
+Technology | iint : Online Service Providers | imed :
+Media/Entertainment | isocial : Social Media Platforms/Tools
+
+*NS* 	
+ccat : Corporate/Industrial News | c42 : Labor/Personnel | ncat :
+Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+*PUB* 	
+IDG Communications Pty Ltd.
+
+*AN* 	
+Document IDGCWA0020190301ef3100007
+
+
+
+*SE* 	News
+*HD* 	GOING OUT
+*BY* 	STEVE DINNEEN
+*WC* 	2254 words
+*PD* 	1 March 2019
+*SN* 	City AM
+*SC* 	CITYMO
+*ED* 	1; National
+*PG* 	32,33
+*LA* 	English
+*CY* 	Copyright 2019. CITY AM.
+
+*LP* 
+
+	
+
+UNMISSABLE ART DOROTHEA TANNING TATE MODERN BY STEVE DINNEEN Strolling
+through the Tate Modern's latest show is like revisiting a barely
+remembered dream: familiar yet strange, a little frightening. The
+retrospective of Dorothea Tanning's 70-year career is a hell of a show,
+in more ways than one. It's filled with nightmarish visions, including
+an installation in which amorphous creatures slither from a fireplace
+and human forms burst through chintzy wallpaper.
+
+Others pieces are merely unsettling, such as Eine Kleine Nachtmusik,
+which depicts a pair of young girls - or perhaps dolls - in a hotel
+hallway as a giant sunflower scratches menacingly across the ground
+towards them. It's all deliciously gothic, Salvador Dali by way of
+Daphne du Maurier.
+
+
+*RE* 	
+london : London (UK) | eecz : European Union Countries | eland : England
+| eurz : Europe | uk : United Kingdom | weurz : Western Europe
+
+*PUB* 	
+City AM Ltd
+
+*AN* 	
+Document CITYMO0020190301ef3100022
+
+
+
+*SE* 	News
+*HD* 	Developing your staff is fundamental to success
+*BY* 	MARK PRICE
+*WC* 	889 words
+*PD* 	1 March 2019
+*SN* 	The Daily Telegraph
+*SC* 	DT
+*ED* 	1; National
+*PG* 	8
+*LA* 	English
+*CY* 	The Daily Telegraph © 2019. Telegraph Media Group Ltd.
+
+*LP* 
+
+	
+
+Leaders must focus on upskilling their workforce if they are to retain
+employees and lift productivity, by making career development a key part
+of the company
+
+It was more than 20 years ago when the chairman of the John Lewis
+Partnership at the time called me to his London office. I travelled down
+from Manchester, where I was running Cheadle's John Lewis branch. Having
+spent my entire career working in department stores, I was bowled over
+when he asked me to become Waitrose's first ever marketing director.
+
+
+*CO* 	
+iusead : INSEAD | lbscho : London Business School | lewisj : John Lewis
+Partnership plc
+
+*IN* 	
+iretail : Retail | i64 : Retail/Wholesale | i656 : Mixed Retailing |
+i6560002 : Department Stores
+
+*NS* 	
+gcrpln : Career Planning/Management | reqrre : Suggested Reading Retail
+| gcat : Political/General News | gjob : General Labor Issues | redit :
+Selection of Top Stories/Trends/Analysis | reqr : Suggested Reading
+Industry News
+
+*RE* 	
+uk : United Kingdom | eland : England | eecz : European Union Countries
+| eurz : Europe | weurz : Western Europe
+
+*PUB* 	
+Telegraph Media Group Ltd.
+
+*AN* 	
+Document DT00000020190301ef3100007
+
+
+
+*SE* 	Finance
+*HD* 	Where your job could be in 2023
+*BY* 	Melanie Burgess
+*WC* 	609 words
+*PD* 	1 March 2019
+*SN* 	Courier Mail​ - ​Online
+*SC* 	NLCRMW
+*LA* 	English
+*CY* 	© 2019 News Limited. All rights reserved.
+
+*LP* 
+
+	
+
+Almost a third of workers are forecast to be contractors and temps by
+2023 and it is not just tradies and Uber drivers making up the numbers.
+
+Many professionals are in high demand for non-permanent roles as more
+companies move toward project-based work.
+
+
+*NS* 	
+crecrt : Recruitment | gcat : Political/General News | c42 :
+Labor/Personnel | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+*IPD* 	
+temporary work | long-term career contractor | chief executive |
+vacation roles | Tony Gough | information technology | start ups |
+contract roles | workers suit | Bernard Salt | highly-skilled gig
+economy | EMPLOYMENT NEWS | adoption information service | young people
+| Oceania | Andrew Morris | contract workers | contract-based project
+managers | Demographics Group | contract jobs | HERALD SUN | agile
+coaches | variable experience | Careers deputy editor | Australia and
+New Zealand | business strategy | CAREERS SECTION | royal commission |
+communications technology | Ict Company Inc. | non-permanent roles |
+spinifex plains | telecommunications space | temporary employees |
+Australia | STEM skills | Queensland | isolated conservation properties
+
+*PUB* 	
+News Ltd.
+
+*AN* 	
+Document NLCRMW0020190301ef31001b9
+
+
+
+*SE* 	Mobiles
+*HD* 	Samsung Galaxy A50 and Galaxy A30 First Impressions
+*BY* 	Jamshed Avari
+*WC* 	1016 words
+*PD* 	1 March 2019
+*ET* 	08:33
+*SN* 	NDTV
+*SC* 	NDTVIN
+*LA* 	English
+*CY* 	Copyright. 2019. NDTV Convergence Ltd., New Delhi, India.
+
+*LP* 
+
+	
+
+Samsung seems to be on a smartphone rampage, releasing three
+models[https://gadgets.ndtv.com/mobiles/news/samsung-m30-price-in-india-14990-specifications-galaxy-launch-release-date-march-7-2000216]
+in the Galaxy M
+series[https://gadgets.ndtv.com/mobiles/news/samsung-m20-price-in-india-samsung-m-series-galaxy-m10-specifications-release-date-features-amazon-i-1984520]
+and now three new Galaxy A models within a month – and then there are
+the three Galaxy S10
+variants[https://gadgets.ndtv.com/mobiles/news/samsung-s10-plus-s10e-india-launch-march-6-price-specifications-galaxy-1999700]
+going on sale in early March.
+
+
+*CO* 	
+sansel : Samsung Electronics Co Ltd
+
+*IN* 	
+i3302 : Computers/Consumer Electronics | i34542 : Audio/Video Equipment
+| icnp : Consumer Goods | idurhg : Durable Household Products | ielec :
+Consumer Electronics | ihome : Home Electronics/Appliances | itech :
+Technology
+
+*NS* 	
+c22 : New Products/Services | ccat : Corporate/Industrial News | ncat :
+Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*IPD* 	
+Samsung | Samsung Galaxy A50 | Samsung Galaxy A50 price | Samsung Galaxy
+A50 price in India | Samsung Galaxy A30 | Samsung Galaxy A30 price |
+Samsung Galaxy A30 price in India
+
+*PUB* 	
+NDTV Convergence Ltd
+
+*AN* 	
+Document NDTVIN0020190301ef3100031
+
+
+
+*SE* 	LIF
+*HD* 	Time for  spectacular  jazz music
+*WC* 	630 words
+*PD* 	1 March 2019
+*SN* 	Cape Argus
+*SC* 	MEWCAP
+*ED* 	E1
+*PG* 	15
+*LA* 	English
+*CY* 	© 2019 Independent Newspapers (Pty) Ltd
+
+*LP* 
+
+	
+
+The Cape Town International Jazz Festival (CTIJF) is fast becoming
+something of a pilgrimage.
+
+On the last weekend of March 2019, the city will become a hive of
+activity as the 20th edition of the CTIJF begins.
+
+
+*NS* 	
+gmusic : Music | gfesti : Festivals | glife : Living/Lifestyle | gcat :
+Political/General News | gent : Arts/Entertainment
+
+*RE* 	
+captw : Cape Town | safr : South Africa | africaz : Africa | bric :
+BRICS Countries | devgcoz : Emerging Market Countries | dvpcoz :
+Developing Economies | souafrz : Southern Africa
+
+*PUB* 	
+Independent Online
+
+*AN* 	
+Document MEWCAP0020190301ef310001c
+
+
+
+*SE* 	OTHERS
+*HD* 	Trapped in tropes
+*BY* 	Kennith Rosario,
+*WC* 	522 words
+*PD* 	1 March 2019
+*SN* 	The Hindu
+*SC* 	THINDU
+*LA* 	English
+*CY* 	(c) 2019 Kasturi & Sons Ltd
+
+*LP* 
+
+	
+
+OTHERS Helmed by an acerbically witty Rebel Wilson, Isn’t It Romantic
+lacks observational details that make for a successful parody A head
+injury neatly separates Isn’t It Romantic , the contemporary woke
+romantic comedy and the parody. The Netflix film begins by showcasing
+Natalie (Rebel Wilson) and her “real and relatable” world and then slips
+into a satire which aims to contradict two worlds. In a “normal” New
+York *millennial* bubble, Natalie’s problems are driven by her
+upbringing, insecurities and embitterment, while the critique of the
+romcom universe involves a takedown of various stereotypes: pop culture,
+queer, narrative, and aesthetic. But the problem with the film is that
+it appears so disconnected from both the worlds that the humour feels
+dated, despite being bankrolled by a streaming platform that aspires to
+be ahead of the curve.
+
+
+*NS* 	
+gmovie : Movies | gcat : Political/General News | gent : Arts/Entertainment
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Kasturi & Sons Ltd
+
+*AN* 	
+Document THINDU0020190301ef310005s
+
+
+
+*SE* 	MUMBAI
+*HD* 	Principals talk methods of mentoring and ancient educational
+practices
+*BY* 	Staff reporter,
+*WC* 	443 words
+*PD* 	1 March 2019
+*SN* 	The Hindu
+*SC* 	THINDU
+*LA* 	English
+*CY* 	(c) 2019 Kasturi & Sons Ltd
+
+*LP* 
+
+	
+
+Mumbai,MUMBAI A look at how to raise millennials in the modern classroom
+The Hindu in School Principals’ Conclave was held on 23rd February, 2019
+at Mayfair Banquet, Worli, with a focus on exploring various methods of
+mentoring students and revisiting ancient educational methods.
+
+On millennials, Dr. Tushar Guha, founder, Open Forum of Principals
+stated: “This generation is diverse in the way of their behaviour and
+perspective. Thus, it is very important for their mentors to accept
+their talent the way they are.”
+
+
+*NS* 	
+gcoho : Generational Cohorts | gedu : Education | gcat :
+Political/General News | gcom : Society/Community
+
+*RE* 	
+mumbai : Mumbai | mahara : Maharashtra | india : India | asiaz : Asia |
+bric : BRICS Countries | devgcoz : Emerging Market Countries | dvpcoz :
+Developing Economies | indsubz : Indian Subcontinent | sasiaz : Southern
+Asia
+
+*PUB* 	
+Kasturi & Sons Ltd
+
+*AN* 	
+Document THINDU0020190301ef3100037
+
+
+
+*SE* 	Bombay Times
+*HD* 	POST OSCARS, IS PINK SET TO BECOME THE NEW BLACK?
+*BY* 	Ismat.Tahseen@timesgroup.com
+*WC* 	598 words
+*PD* 	1 March 2019
+*SN* 	The Times of India - Mumbai Edition
+*SC* 	TOIMUM
+*LA* 	English
+*CY* 	Copyright © 2019. Bennett, Coleman & Co., Ltd.
+
+*LP* 
+
+	
+
+You may as well call it 50 shades of pink. For, this hue can be seen in
+so many variations - baby pink, light *millennial* pink, coral, soft
+shell enamel, fuchsia, and more. And at the recent Oscar Awards it was
+another shade of the colour that stood out as the most popular fashion
+trend for the night - bright pink! There was almost a sea of gowns in
+the hue - in poufy frills, netted ruffles, princess-style trail gowns,
+bubble-gum hued tulles and more. It's being described by fashion
+analysts as 'joyful' and 'what modern couture should be like'. As it
+upped the sartorial ante, it got fashion pundits asking: Is pink the new
+black?The attention-grabbing pink dresses were seen on a bunch of stars.
+'Crazy Rich Asians' star Gemma Chan wore a voluminous gown in magenta.
+She also snuck a cookie into her pockets to probably munch on during the
+whole event.
+
+
+*NS* 	
+gfas : Fashion | gaward : Awards | gcele : Celebrities | gcat :
+Political/General News | glife : Living/Lifestyle
+
+*RE* 	
+mumbai : Mumbai | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | india :
+India | indsubz : Indian Subcontinent | mahara : Maharashtra | sasiaz :
+Southern Asia
+
+*PUB* 	
+Bennett, Coleman & Co., Ltd.
+
+*AN* 	
+Document TOIMUM0020190301ef3100029
+
+
+
+*SE* 	Features
+*HD* 	When ghosts could again be ghosts
+*BY* 	Donald Clarke
+*WC* 	422 words
+*PD* 	1 March 2019
+*SN* 	The Irish Times
+*SC* 	IRTI
+*PG* 	13
+*LA* 	English
+*CY* 	(c) 2019, The Irish Times.
+
+*LP* 
+
+	
+
+RINGU ****
+
+Directed by Hideo Nakata. Starring Nanako Matsushima, Hiroyuki Sanada,
+Rikiya Otaka, Yoichi Numata. 15A cert, limited release, 95 min
+
+
+*NS* 	
+gmovie : Movies | nrvw : Reviews | gcat : Political/General News | gent
+: Arts/Entertainment | ncat : Content Types | nfact : Factiva Filters |
+nfce : C&E Exclusion Filter
+
+*RE* 	
+ire : Ireland | eecz : European Union Countries | eurz : Europe | weurz
+: Western Europe
+
+*PUB* 	
+Itronics Limited
+
+*AN* 	
+Document IRTI000020190301ef310001l
+
+
+
+*SE* 	Brands: Creating Desire
+*HD* 	Parties Plan to Tap Social Media Influencers to Woo Voters Ahead
+of Elections
+*BY* 	Anumeha.Chaturvedi@timesgroup.com
+*WC* 	400 words
+*PD* 	1 March 2019
+*SN* 	The Economic Times - Kolkata Edition
+*SC* 	ECTKOL
+*LA* 	English
+*CY* 	Copyright © 2019. Bennett, Coleman & Co., Ltd.
+
+*LP* 
+
+	
+
+Political parties are extensively tapping social media influencers -
+those with a sizeable fan base on platforms like Facebook, YouTube and
+Instagram - ahead of the elections to push their messages through subtle
+campaigns, advertisers and marketers said.
+
+
+*NS* 	
+gpol : Domestic Politics | gvote : Elections | gweb : Social Media |
+glife : Living/Lifestyle | gcat : Political/General News | gpir :
+Politics/International Relations
+
+*RE* 	
+kolk : Kolkata | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | india :
+India | indsubz : Indian Subcontinent | sasiaz : Southern Asia | wbeng :
+West Bengal
+
+*PUB* 	
+Bennett, Coleman & Co., Ltd.
+
+*AN* 	
+Document ECTKOL0020190301ef3100007
+
+
+
+*SE* 	Economy: Macro, Micro & More
+*HD* 	Parties Tap Social Media Influencers
+*BY* 	Anumeha.Chaturvedi@timesgroup.com
+*WC* 	842 words
+*PD* 	1 March 2019
+*SN* 	The Economic Times - Delhi Edition
+*SC* 	ECTDEL
+*LA* 	English
+*CY* 	Copyright © 2019. Bennett, Coleman & Co., Ltd.
+
+*LP* 
+
+	
+
+Parties see those with a sizeable fan base as an effective medium to
+reach out to *millennial* voters and push their messages
+
+AHEAD OF GENERAL ELECTIONSPolitical parties are extensively tapping
+social media influencers - those with a sizeable fan base on platforms
+like Facebook, YouTube and Instagram - ahead of the elections to push
+their messages through subtle campaigns, advertisers and marketers said.
+
+
+*CO* 	
+onlnfr : Facebook Inc
+
+*IN* 	
+iint : Online Service Providers | imed : Media/Entertainment | isocial :
+Social Media Platforms/Tools | itech : Technology
+
+*NS* 	
+gweb : Social Media | glife : Living/Lifestyle | gpol : Domestic
+Politics | gvote : Elections | gcat : Political/General News | gpir :
+Politics/International Relations
+
+*RE* 	
+india : India | delhi : Delhi | asiaz : Asia | bric : BRICS Countries |
+devgcoz : Emerging Market Countries | dvpcoz : Developing Economies |
+indsubz : Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Bennett, Coleman & Co., Ltd.
+
+*AN* 	
+Document ECTDEL0020190301ef310001v
+
+
+
+*HD* 	Millennials will drive Airbnb growth in India: co-founder Blecharczyk
+*BY* 	Navadha Pandey
+*WC* 	649 words
+*PD* 	1 March 2019
+*SN* 	MintAsia
+*SC* 	HTMINA
+*LA* 	English
+*CY* 	Copyright 2019. HT Media Ltd.
+
+*LP* 
+
+	
+
+New Delhi, March 1 -- Online homestay company Airbnb Inc. sees a huge
+growth potential in India on the back of a rising middle class and
+*millennial* travel buffs, shifting its focus to domestic travel in a
+"compelling" country. "Millennials are our real target audience," Nathan
+Blecharczyk, co-founder and chief strategy officer, Airbnb, said in an
+interview. "That's what we see across the world as well. India is
+compelling," Blecharczyk said. So far, Airbnb has received 1.8 million
+guests across its platform in India. Globally, Airbnb expects that by
+the end of the first quarter of 2019, there will have been over 500
+million guest arrivals in its listings since 2008, when the company was
+founded. The company launched its platform in India in May 2016 and has
+45,000 listings. "(India has) a substantial base. It's still small
+relative to the overall opportunity. But our awareness in India is much
+higher than it was few years ago.
+
+
+*CO* 	
+airbab : Airbnb, Inc.
+
+*IN* 	
+i66 : Hotels/Restaurants | i665 : Lodgings | i6655 : Rooming/Boarding
+Houses | ilea : Leisure/Arts/Hospitality
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+HT Digital Streams Limited
+
+*AN* 	
+Document HTMINA0020190301ef31000ru
+
+
+
+*HD* 	FINEX FOLIO Employee engagement
+*BY* 	Reynaldo C. Lugtu, Jr.
+*WC* 	976 words
+*PD* 	1 March 2019
+*SN* 	BusinessWorld
+*SC* 	BSWRLD
+*PG* 	S2/1
+*LA* 	English
+*CY* 	(c) 2019 Business World Publishing Corporation.
+
+*LP* 
+
+	
+
+Employee engagement has become a mainstream concept throughout
+organizations, including corporate boardrooms. The rise of digital
+transformation as a strategy and the emergence of the *millennial*
+generations gave it much prominence in the recent years.
+
+But the first use of the term occurred in a 1990 Academy of Management
+Journal article of William A. Kahn about the psychological conditions of
+personal engagement and disengagement at work which examined the
+conditions at work that contribute to engagement and disengagement. His
+finding showed that the individual and contextual sources of
+meaningfulness, safety, and availability had a significant impact on
+engagement.
+
+
+*NS* 	
+cb2e : Business-to-Employee (B2E) | c41 : Management | c42 :
+Labor/Personnel | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+phlns : Philippines | apacz : Asia Pacific | asiaz : Asia | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | seasiaz :
+Southeast Asia
+
+*PUB* 	
+BusinessWorld Publishing Corporation
+
+*AN* 	
+Document BSWRLD0020190301ef310001s
+
+
+
+*HD* 	'Avocado toast sneakers' capture American millennials' hearts
+*BY* 	mickey@donga.com
+*WC* 	223 words
+*PD* 	1 March 2019
+*SN* 	Dong-A Ilbo Daily
+*SC* 	DONGAI
+*LA* 	English
+*CY* 	(c) 2019 Dong-A Ilbo Daily. All Right Reserved
+
+*LP* 
+
+	
+
+"Shadow 6000 avocado toast" sneakers are gaining much attention as the
+*millennial* generations in the U.S. are fanatic about it. The concept
+of the sneakers is a toast with avocados on top, by aiming the fact that
+the youths are very much interested in healthy food.
+
+The top of the sneaker is colored with light green like an avocado and
+the bottom part is brown like a toast. Many red dots, which projects red
+peppers frequently sprinkled on top of avocado toasts, are also seen,
+while "saucamole" is written on the back of the sneaker. There is even a
+commercial that says 'let's go and have a healthy brunch wearing
+'avocado toast' sneakers.'
+
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+Dong-A Ilbo Daily
+
+*AN* 	
+Document DONGAI0020190228ef310005m
+
+
+
+*HD* 	Public Poll
+*BY* 	Aprajita Vidyarthi
+*WC* 	537 words
+*PD* 	1 March 2019
+*SN* 	Pune Mirror
+*SC* 	PUNMIR
+*LA* 	English
+*CY* 	Copyright © 2019. Bennett, Coleman & Co., Ltd.
+
+*LP* 
+
+	
+
+A dark indie film shows in the city today and its audience gets to
+decide how it plays out via a digital ballot
+
+Have you sat up while watching a movie, desperate to tell the leading
+lady that the hero is in love with her too? Or wanted to step into a
+scene to sort out a dilemma? Or wanted the film's climax to play out
+differently? If you've watched the episode titled Bandersnatch on the
+popular Netflix series, Black Mirror, and wished it were an interactive
+film instead of a video game that was adapted into a dark fantasy,
+you're hours away from the wish fulfilment.
+
+
+*NS* 	
+gmovie : Movies | gcat : Political/General News | gent : Arts/Entertainment
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Bennett, Coleman & Co., Ltd.
+
+*AN* 	
+Document PUNMIR0020190228ef310000x
+
+
+
+*SE* 	Hindi Movie News
+*HD* 	'Sonchiriya': Celebs at the special screening of the film
+*WC* 	298 words
+*PD* 	1 March 2019
+*SN* 	The Times of India
+*SC* 	TOI
+*LA* 	English
+*CY* 	(c) 2019 The Times of India Group
+
+*LP* 
+
+	
+
+All set to release this Friday, RSVP'S 'Sonchiriya' directed by Abhishek
+Chaubey had a special screening for the cast and crew in the suburbs of
+Mumbai to relive the journey before its release.The screening graced by
+the makers Abhishek Chaubey and Ronnie Screwvala, along with the entire
+cast Sushant Singh Rajput, Ranvir Shorey, Aashutosh Rana, Bhumi
+Pednekar, and Manoj Bajpayee.Apart from the film team, Aanand L Rai,
+Sara Ali Khan, Ananya Panday, Vicky Kaushal, Sohum shah, Rasika Duggal,
+also attended the screening.Hitting the screens this Friday,
+'Sonchiriya' has been creating the right stir amongst the audience for
+its rustic content and intriguing storyline backed by remarkable
+performances by the ensemble cast.The film offers a rooted tale which is
+hidden in the history of India. Inspired by true events, Abhishek
+Chaubey's 'Sonchiriya' once again presents a story tracing back to 70s
+in Chambal.
+
+
+*NS* 	
+gmovie : Movies | gcat : Political/General News | gent : Arts/Entertainment
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Bennett, Coleman & Co., Ltd.
+
+*AN* 	
+Document TOI0000020190228ef31000be
+
+
+
+*SE* 	fashion
+*HD* 	Lanvin Tries (Again) to Turn the Page; Fashion Review
+*BY* 	By Vanessa Friedman
+*WC* 	510 words
+*PD* 	1 March 2019
+*SN* 	International New York Times
+*SC* 	INHT
+*LA* 	English
+*CY* 	© 2019 The New York Times Company. All Rights Reserved.
+
+*LP* 
+
+	
+
+PARIS — Fourth time lucky?
+
+Lanvin, one-time fairy tale of French fashion, has flipped and flopped
+(more often flopped) so many times since Alber Elbaz, the creative
+director who gave it modern meaning, was fired in 2015, that it has lost
+almost all identity: going romantically cool under Bouchra
+Jarrar[https://www.nytimes.com/2016/09/29/fashion/paris-fashion-week-lanvin-jarrar-maison-margiela-galliano.html];
+weirdly 1980s under Olivier
+Lapidus[https://www.nytimes.com/2017/09/27/fashion/lanvin-paris-fashion-week.html];
+and then silent while a new
+owner,[https://www.nytimes.com/2018/02/22/business/fosun-lanvin.html]
+management team and designer — Bruno
+Sialelli[https://www.nytimes.com/2019/02/26/fashion/lanvin-bruno-sialelli-paris.html],
+an unknown barely into his 30s — got settled.
+
+
+*NS* 	
+glife : Living/Lifestyle | gdesg : Fashion Design | gfas : Fashion |
+nrvw : Reviews | gart : Art | gcat : Political/General News | gent :
+Arts/Entertainment | ncat : Content Types | nfact : Factiva Filters |
+nfce : C&E Exclusion Filter
+
+*RE* 	
+fra : France | eecz : European Union Countries | eurz : Europe | medz :
+Mediterranean | weurz : Western Europe
+
+*PUB* 	
+International Herald Tribune
+
+*AN* 	
+Document INHT000020190228ef310000h
+
+
+
+*SE* 	BUSINESS FOR GOOD IN EAST ASIA
+*HD* 	 *Shifting to a Stakeholder Economy
+<https://proxylibrary.hse.ru:2415/pro/default.aspx?napc=S&_XFORMSTATE=AE97MTp7MTA5OnsxOjAsMjoiRCIsMzowLDQ6MCw1OiJwcm9ial9hcHBsaWNhdGlvbl9wZGY6YXJjaGl2ZS9BRklPUkgyMDE5MDIyNzAwNDcxLzQ4LzYxNjY0L1NUQVNPSVIw2AMLOGVmMzEwMDAwdSJ9fX0RAAB2AAAA&sa_from=GL>*
+
+*BY* 	JINGLIAN WU
+*WC* 	1428 words
+*PD* 	1 March 2019
+*SN* 	Stanford Social Innovation Review
+*SC* 	STASOIR
+*PG* 	4-5
+*VOL* 	Volume 17; Issue 02
+*LA* 	English
+*CY* 	Copyright 2019 Stanford Social Innovation Review
+
+*LP* 
+
+	
+
+As society looks to the business world to solve the most pressing social
+and environmental issues, corporations are changing the way they are
+structured to fulfill their duties and new responsibilities.
+
+Jinglian Wu is widely regarded as China’s most celebrated and
+influential economist. He has made important contributions to the
+theoretical foundation of market reform in China. This article is based
+on his speech at the China Europe International Business School (CEIBS)
+Alumni Social Responsibility Forum & Awards Presentation Ceremony in
+April 2018.
+
+
+*RE* 	
+china : China | apacz : Asia Pacific | asiaz : Asia | bric : BRICS
+Countries | chinaz : Greater China | devgcoz : Emerging Market Countries
+| dvpcoz : Developing Economies | easiaz : Eastern Asia
+
+*PUB* 	
+The Trustees of the Leland Stanford Junior University
+
+*AN* 	
+Document STASOIR020190228ef310000u
+
+
+
+*SE* 	BUSINESS FOR GOOD IN EAST ASIA
+*HD* 	 *The SEE Way
+<https://proxylibrary.hse.ru:2415/pro/default.aspx?napc=S&_XFORMSTATE=AE97MTp7MTA5OnsxOjAsMjoiRCIsMzowLDQ6MCw1OiJwcm9ial9hcHBsaWNhdGlvbl9wZGY6YXJjaGl2ZS9BRklPUkgyMDE5MDIyNzAwNDUzLzQ4LzYyNDkyL1NUQVNPSVIw2AMLOGVmMzEwMDAwaiJ9fX0RAAB2AAAA&sa_from=GL>*
+
+*BY* 	YONG WANG YULIN LI
+*WC* 	1703 words
+*PD* 	1 March 2019
+*SN* 	Stanford Social Innovation Review
+*SC* 	STASOIR
+*PG* 	9-10
+*VOL* 	Volume 17; Issue 02
+*LA* 	English
+*CY* 	Copyright 2019 Stanford Social Innovation Review
+
+*LP* 
+
+	
+
+Entrepreneurs have launched a bold new democratic practice to save the
+environment in China.
+
+Yong Wang is a journalist based in Beijing.Yulin Li is the founder of
+Philanthropy Watch Lab.
+
+
+*NS* 	
+centrp : Entrepreneurs/Startups | gvote : Elections | ccat :
+Corporate/Industrial News | gcat : Political/General News | gpir :
+Politics/International Relations | gpol : Domestic Politics
+
+*RE* 	
+china : China | easiaz : Eastern Asia | chinaz : Greater China | beijin
+: Beijing | apacz : Asia Pacific | asiaz : Asia | bric : BRICS Countries
+| devgcoz : Emerging Market Countries | dvpcoz : Developing Economies
+
+*PUB* 	
+The Trustees of the Leland Stanford Junior University
+
+*AN* 	
+Document STASOIR020190228ef310000j
+
+
+
+*SE* 	FIELD REPORT
+*HD* 	 *Restoring the Heartland
+<https://proxylibrary.hse.ru:2415/pro/default.aspx?napc=S&_XFORMSTATE=AFB7MTp7MTA5OnsxOjAsMjoiRCIsMzowLDQ6MCw1OiJwcm9ial9hcHBsaWNhdGlvbl9wZGY6YXJjaGl2ZS9BRklPUkgyMDE5MDIyNzAwNDU2LzQ4LzgzMzQxOS9TVEFTT0lSMNwDCzhlZjMxMDAwMDQifX19EQAAdwAAAA%3d%3d&sa_from=GL>*
+
+*BY* 	KATHY O. BROZEK
+*WC* 	1709 words
+*PD* 	1 March 2019
+*SN* 	Stanford Social Innovation Review
+*SC* 	STASOIR
+*PG* 	13-14
+*VOL* 	Volume 17; Issue 02
+*LA* 	English
+*CY* 	Copyright 2019 Stanford Social Innovation Review
+
+*LP* 
+
+	
+
+Iroquois Valley Farms’ impact investment model ushers in a new era for
+farmers looking to create a sustainable future.
+
+KATHY O. BROZEK is a cross-sector consultant and author of The
+Transformation of American Agriculture. Her work has appeared in The
+Guardian and the Federal Reserve journal, Community Development
+Investment Review. She holds an MBA from the Kellogg School of Management.
+
+
+*IN* 	
+i0 : Agriculture
+
+*NS* 	
+gsust : Sustainable Development/Sustainability | gcat :
+Political/General News | genv : Natural Environment
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+The Trustees of the Leland Stanford Junior University
+
+*AN* 	
+Document STASOIR020190228ef3100004
+
+
+
+*HD* 	Fertile Ground; For a growing number of women worldwide, the often
+emotional struggle to get pregnant is leading to Los Angeles. With its
+top-notch tech and liberal laws, is California changing the business of
+giving birth?
+*BY* 	JANCEE DUNN
+*WC* 	2636 words
+*PD* 	1 March 2019
+*SN* 	Vogue
+*SC* 	GVOG
+*PG* 	380
+*VOL* 	ISSN: 0042-8000, Volume 209, Issue 3
+*LA* 	English
+*CY* 	© 2019 Condé Nast. All rights reserved.
+
+*LP* 
+
+	
+
+In the serene, sunlight-filled waiting room of California Fertility
+Partners in Los Angeles—one of the world's leading practitioners of
+in-vitro fertilization (IVF)—some 20 people are seated on blue velvet
+chairs. Two men, clearly a couple, coo over a pink-cheeked baby girl who
+is triumphantly waving a stuffed duck. A 40-something blonde woman in
+black workout clothes punctuated by diamonds sits across from a slightly
+tense couple conferring in Mandarin. Behind me, I hear a conversation in
+French; in another corner, a trio of women—perhaps the employees one
+hears about from companies such as Apple and Google who come here in
+groups to freeze their eggs, a perk that is generously subsidized by
+their employers—quietly laugh. More and more, this scene is being
+repeated all over Los Angeles.
+
+
+*NS* 	
+glife : Living/Lifestyle | gcat : Political/General News
+
+*RE* 	
+lax : Los Angeles | usa : United States | usca : California | namz :
+North America | usw : Western U.S.
+
+*PUB* 	
+Vogue Magazine
+
+*AN* 	
+Document GVOG000020190221ef3100011
+
+
+
+*SE* 	V Life
+*HD* 	Maman Knows Best; When is a perfume a work of art? Focusing on
+all-natural notes and Brancusi-inspired bottles, the mother-and-son duo
+behind Ormaie is taking scent exploration to new heights.
+*BY* 	LYNN YAEGER
+*WC* 	586 words
+*PD* 	1 March 2019
+*SN* 	Vogue
+*SC* 	GVOG
+*PG* 	220
+*VOL* 	ISSN: 0042-8000, Volume 209, Issue 3
+*LA* 	English
+*CY* 	© 2019 Condé Nast. All rights reserved.
+
+*LP* 
+
+	
+
+When Baptiste Bouygues was looking for a partner for his first fragrance
+venture, he did something a lot of us would run away from, screaming:
+The 30-year-old called his mother. “I went to see Maman, and I told her
+I had this creative dream,” Bouygues explains, recalling how he sold
+Marie-Lise Jonak on the big idea: What if they could build a luxury
+perfume maison on fine craftsmanship and sustainable production
+practices, a line that relied solely on pure, unadulterated materials?
+And what if they offered this olfactory triumph in heartbreakingly
+beautiful recycled packaging, worthy of a museum vitrine?
+
+
+*CO* 	
+boygue : Bouygues SA
+
+*IN* 	
+iconst : Construction | icre : Real Estate/Construction
+
+*NS* 	
+gsust : Sustainable Development/Sustainability | gcat :
+Political/General News | genv : Natural Environment
+
+*PUB* 	
+Vogue Magazine
+
+*AN* 	
+Document GVOG000020190221ef310000i
+
+
+
+*SE* 	V Life
+*HD* 	Spring Forward; In this month's best fiction a late-night comic
+welcomes an unlikely guest, a beguiling singer lights up L.A., and
+modern-day epics unfold.
+*BY* 	STAFF LAUREN MECHLING
+*WC* 	570 words
+*PD* 	1 March 2019
+*SN* 	Vogue
+*SC* 	GVOG
+*PG* 	242
+*VOL* 	ISSN: 0042-8000, Volume 209, Issue 3
+*LA* 	English
+*CY* 	© 2019 Condé Nast. All rights reserved.
+
+*LP* 
+
+	
+
+With no job and only 119 Instagram followers to her name, 29-year-old
+June Bloom hops into a chauffeured SUV bound for the country compound of
+her former boss, late-night comedy legend Hugo Best in Erin Somers's
+zippy debut Stay Up with Hugo Best (Scribner). June's quick wit keeps
+the banter flowing over a bizarre Memorial Day weekend during which the
+larger-than-life figure reconciles himself to the cancellation of his
+show. The *millennial* and the magnetic celebrity are surprisingly well
+suited, two sardonic souls who find themselves connecting. “A crazed
+billionaire lurked in all of us, ready to have the lawn mowed on the
+hour,” June realizes midway through her stay. The ending doesn't quite
+live up to the book's magnificent opening, but it's a devilishly fun
+ride along the way.
+
+—LAUREN MECHLING
+
+
+*NS* 	
+glife : Living/Lifestyle | gcat : Political/General News
+
+*PUB* 	
+Vogue Magazine
+
+*AN* 	
+Document GVOG000020190221ef3100001
+
+
+
+*HD* 	THE PEOPLE CHANGING THE WAY WE TRAVEL; THE WANDERING RENEGADES
+REDIRECTING THE GLOBAL COMPASS
+*BY* 	STAFF TRAVELLER UK
+*WC* 	2055 words
+*PD* 	1 March 2019
+*SN* 	Conde Nast Traveler
+*SC* 	UPCNT
+*PG* 	33
+*VOL* 	ISSN: 0893-9683, Volume 54, Issue 2
+*LA* 	English
+*CY* 	© 2019 Condé Nast. All rights reserved.
+
+*LP* 
+
+	
+
+WES ANDERSON
+
+
+*NS* 	
+gtour : Travel | gcat : Political/General News | glife : Living/Lifestyle
+
+*PUB* 	
+Condé Nast
+
+*AN* 	
+Document UPCNT00020190219ef3100003
+
+
+
+*SE* 	Palaeoecology and land‐use history
+*HD* 	Ice cave reveals environmental forcing of long‐term Pyrenean tree
+line dynamics
+*BY* 	Maria Leunda; Penélope González‐Sampériz; Graciela Gil‐Romera;
+Miguel Bartolomé; Ánchel Belmonte‐Ribas; Daniel Gómez‐García; Petra
+Kaltenrieder; Juan Manuel Rubiales; Christoph Schwörer; Willy Tinner;
+César Morales‐Molino; Carlos Sancho
+*WC* 	355 words
+*PD* 	1 March 2019
+*SN* 	Journal of Ecology
+*SC* 	PJEC
+*PG* 	814-828
+*VOL* 	Volume 107; Issue 2; ISSN:00220477
+*LA* 	English
+*CY* 	© 2019 Journal of Ecology. Provided by ProQuest Information and
+Learning. All Rights Reserved.
+
+*LP* 
+
+	
+
+* Tree lines are supposed to react sensitively to the current global
+change. However, the lack of a long‐term (*millennial*) perspective on
+tree line shifts in the Pyrenees prevents understanding the underlying
+ecosystem dynamics and processes.
+
+* We combine multiproxy palaeoecological analyses (fossil pollen,
+spores, conifer stomata, plant macrofossils, and ordination) from an
+outstanding ice cave deposit located in the alpine belt c. 200 m above
+current tree line (Armeña‐A294 Ice Cave, 2,238 m a.s.l.), to assess for
+the first time in the Pyrenees, tree line dynamics, and ecosystem
+resilience to climate changes 5,700–2,200 (cal.) years ago.
+
+
+*NS* 	
+genv : Natural Environment | gcat : Political/General News | gclimt :
+Climate Change | gnatcn : Environmental Protection | grel : Religion |
+gsci : Sciences/Humanities | nabst : Abstracts | gcom :
+Society/Community | gglobe : Global/World Issues | ncat : Content Types
+
+*IPD* 	
+Scholarly Journals | Blackwell Publishing Ltd. | Article | Feature |
+climate impact | Dryas octopetala | ice deposit | Pinus uncinata | plant
+macrofossils | pollen | timberline | tree line
+
+*PUB* 	
+Wiley-Blackwell
+
+*AN* 	
+Document PJEC000020190213ef310000r
+
+
+
+*HD* 	OLD GUNS NEW GENERATION? YOUNGER DOESN'T ALWAYS MEAN UNINTERESTED.
+*BY* 	Walker, Clayton
+*WC* 	1567 words
+*PD* 	1 March 2019
+*SN* 	American Handgunner
+*SC* 	AHG
+*PG* 	58
+*VOL* 	ISSN: 0145-4250; Volume 44; Issue 2
+*LA* 	English
+*CY* 	© Copyright 2019 Publishers Development Corporation. All rights
+reserved.
+
+*LP* 
+
+	
+
+At the age of 34, I don't consider myself particularly young anymore,
+but to the best of my knowledge it does make me one of the younger
+contributors around these parts. It also makes me a
+*millennial*--technically. As word has it, your average *millennial* is
+characterized--often fairly--as a self-entitled, self-absorbed,
+gun-phobic hyper-liberal with no interest in or awareness of history.
+For this reason, I try to be as good a brand ambassador for my
+generation as I can be.
+
+About a month ago, I brought home a Steyr-Hahn model 1912. It fit in
+well with the rest of my gun collection, which I'd estimate would have
+an average birth date of 1965 if you lumped them all together. As I was
+oohing and ahhing over the Steyr's mechanical simplicity, its precise
+Austrian machining, and its unmistakable design, I had a small
+out-of-body experience. Was it just me who cared about a bygone era of
+firearms in this generation of striker-fired, plastic pistols?
+
+
+*IN* 	
+i329 : Firearms | iaer : Aerospace/Defense | idef : Defense
+Equipment/Products | iindstrls : Industrial Goods
+
+*NS* 	
+glife : Living/Lifestyle | gcat : Political/General News
+
+*RE* 	
+usa : United States | namz : North America
+
+*IPD* 	
+General | Magazine/Journal | Hobbies and crafts | Travel, recreation and
+leisure
+
+*PUB* 	
+Publishers Development Corporation
+
+*AN* 	
+Document AHG0000020190122ef310000w
+
+
+
+*HD* 	Younger, faster, digital-first: Cracking the new advice code
+*BY* 	Suleman Din
+*WC* 	2334 words
+*PD* 	28 February 2019
+*SN* 	Financial Planning Online
+*SC* 	FPLFO
+*VOL* 	Vol.1, No.1
+*LA* 	English
+*CY* 	© 2019 Financial Planning and SourceMedia, Inc. All rights reserved.
+
+*LP* 
+
+	
+
+The light flashed green at the busy San Francisco intersection as Cody
+Wilson joined the backpack-toting crowd walking to work. Just then, his
+cellphone rang. A representative from Bank of America, his bank, was
+calling to get his opinion on its Merrill Edge trading platform.
+
+Wilson, a 31-year-old customer success manager at a data startup, gave
+the rep an earful. The platform was neither as much fun nor as simple to
+use as the *millennial*-focused trading app Robinhood, he said. Nor did
+the bank’s app have an easy way to invest in low-cost mutual funds; much
+of its fare instead was Merrill Edge Select Funds.
+
+
+*RE* 	
+sfra : San Francisco | namz : North America | usa : United States | usca
+: California | usw : Western U.S.
+
+*PUB* 	
+SourceMedia, Inc.
+
+*AN* 	
+Document FPLFO00020190228ef2s0008e
+
+
+
+*SE* 	news
+*HD* 	Corrections & Clarifications
+*WC* 	47713 words
+*PD* 	28 February 2019
+*SN* 	USA Today Online
+*SC* 	USATONL
+*LA* 	English
+*CY* 	Copyright © 2019 USA Today Online. Provided by ProQuest
+Information and Learning. All rights reserved.
+
+*LP* 
+
+	
+
+To report corrections & clarifications, contact:
+
+Phone, 1-800-872-7073
+
+
+*NS* 	
+gpol : Domestic Politics | grape : Sex Crimes | grel : Religion | ncor :
+Corrections | gcat : Political/General News | gcom : Society/Community |
+gcrim : Crime/Legal Action | gpir : Politics/International Relations |
+ncat : Content Types
+
+*RE* 	
+houst : Houston | jerus : Jerusalem | usa : United States | usdc :
+Washington DC | usfl : Florida | usoh : Ohio | ustx : Texas | asiaz :
+Asia | israel : Israel | meastz : Middle East | medz : Mediterranean |
+namz : North America | usc : Midwest U.S. | uss : Southern U.S. | wasiaz
+: Western Asia
+
+*IPD* 	
+Newspapers | USA Today, a division of Gannett Satellite Information
+Network, Inc. | Correction/Retraction
+
+*PUB* 	
+USA Today Information Network
+
+*AN* 	
+Document USATONL020190228ef2s0018m
+
+
+
+*SE* 	Opinion
+*HD* 	Jeremy Corbyn’s Anti-Semitic Labour Party
+*BY* 	By Roger Cohen
+*WC* 	1495 words
+*PD* 	28 February 2019
+*ET* 	23:42
+*SN* 	NYTimes.com Feed
+*SC* 	NYTFEED
+*LA* 	English
+*CY* 	Copyright 2019. The New York Times Company. All Rights Reserved.
+
+*LP* 
+
+	
+
+Jew hatred has re-entered the European mainstream. It makes an
+irrefutable case for the need for a Jewish homeland.
+
+LONDON — Europe’s gathering Jewish question came into sharp focus this
+month[https://www.nytimes.com/2019/02/18/world/europe/uk-labour-party.html]
+when a British M.P. declared that she had come to the “sickening
+conclusion” that one of the country’s two main political parties,
+Labour, is now “institutionally anti-Semitic.”
+
+
+*CO* 	
+euruno : European Union
+
+*NS* 	
+gracm : Racism | gpol : Domestic Politics | gcat : Political/General
+News | grel : Religion | greldi : Religious Discrimination | nedc :
+Commentaries/Opinions | gcom : Society/Community | gdcri :
+Discrimination | ghum : Human Rights/Civil Liberties | gpir :
+Politics/International Relations | gsoc : Social Issues | ncat : Content
+Types | nfact : Factiva Filters | nfcpex : C&E Executive News Filter
+
+*RE* 	
+israel : Israel | uk : United Kingdom | palest : Palestine | asiaz :
+Asia | dvpcoz : Developing Economies | eecz : European Union Countries |
+eurz : Europe | meastz : Middle East | medz : Mediterranean | wasiaz :
+Western Asia | weurz : Western Europe
+
+*IPD* 	
+Anti-Semitism | Jews and Judaism | Op-Ed | Corbyn, Jeremy (1949- ) |
+Berger, Luciana | Labour Party (Great Britain) | Europe | Great Britain
+| Israel | Paris (France)
+
+*PUB* 	
+The New York Times Company
+
+*AN* 	
+Document NYTFEED020190228ef2s00912
+
+
+
+*HD* 	Cover Story - Fashion Retail: The Money Spinner for Indian Malls
+*BY* 	Sandeep Kumar
+*CR* 	Distributed by Contify.com
+*WC* 	2611 words
+*PD* 	28 February 2019
+*SN* 	Shopping Centre News (India)
+*SC* 	ATSHOC
+*LA* 	English
+*CY* 	Copyright © 2019. Images Multimedia
+
+*LP* 
+
+	
+
+A boom in the fashion retail segment in shopping malls in India can be
+attributed to a number of reasons including an increase in the number of
+brands in the premium fashion category, the entry of global brands and
+fast fashion retailers, and the subsequent growing demand for quality
+Grade A retail real estate space. We bring an in-depth analysis of why
+fashion is the number one category in shopping malls pan India
+
+Indian consumers have a deep-rooted association with fashion and luxury.
+According to Euro monitor International, the sale of luxury goods in
+India grew 25 percent in 2014 in comparison to China and Indian
+consumers have never looked back since then. Fashion, which comprises
+the major portion of the luxury goods segment, has been on a continuous
+growth spree since then as well. By 2020, spending in the Indian luxury
+market is expected to increase more than double to Rs 23,600 crores from
+Rs 13,200 crores.
+
+
+*IN* 	
+idescl : Designer Clothing | i6560011 : Shopping Malls/Superstores |
+i453 : Clothing | i64 : Retail/Wholesale | i656 : Mixed Retailing | iclt
+: Clothing/Textiles | icnp : Consumer Goods | iluxgds : Luxury Goods |
+iretail : Retail
+
+*NS* 	
+gfas : Fashion | ccat : Corporate/Industrial News | npag : Page-One
+Stories | gcat : Political/General News | glife : Living/Lifestyle |
+ncat : Content Types
+
+*RE* 	
+india : India | chenna : Chennai | delhi : Delhi | mahara : Maharashtra
+| tamil : Tamil Nadu | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Images Multimedia Pvt. Ltd.
+
+*AN* 	
+Document ATSHOC0020190419ef2s00001
+
+
+
+*SE* 	EDITORIAL
+*HD* 	FINDING SATISFACTION BEYOND THE PAYCHECK
+*BY* 	BRIAN O'NEILL
+*WC* 	941 words
+*PD* 	28 February 2019
+*SN* 	Pittsburgh Post-Gazette
+*SC* 	PPGZ
+*PG* 	A-9
+*VOL* 	ISSN:1068624X
+*LA* 	English
+*CY* 	© 2019 Post Gazette Publishing Company. Provided by ProQuest
+Information and Learning. All rights reserved.
+
+*LP* 
+
+	
+
+With more than 40 years in newspapers, I'm blessedly close to the end of
+my working life. As this old horse lopes toward the stable, his
+principal concern is whether he has enough oats stored in the silo.
+
+I don't worry about how I'll fill my retirement days. There are too many
+great books I haven't read, places yet to see and old friends I'd like
+to see again. Though I've loved this job, I don't expect to be bored
+when I walk away from it because I don't define myself by what I do for
+a living. That way of thinking evidently puts me out of step with much
+of the white-collar world.
+
+
+*NS* 	
+gbook : Books | nedc : Commentaries/Opinions | gcat : Political/General
+News | gent : Arts/Entertainment | ncat : Content Types | nfact :
+Factiva Filters | nfcpex : C&E Executive News Filter
+
+*RE* 	
+uspa : Pennsylvania | namz : North America | usa : United States | use :
+Northeast U.S.
+
+*IPD* 	
+Newspapers | Pittsburgh Post - Gazette | Commentary
+
+*PUB* 	
+PG Publishing Co., Inc
+
+*AN* 	
+Document PPGZ000020190228ef2s0004a
+
+
+
+*SE* 	News
+*HD* 	Experian Bid for rival dropped
+*WC* 	110 words
+*PD* 	28 February 2019
+*SN* 	Financial Times
+*SC* 	FTFT
+*ED* 	1; Main
+*PG* 	20
+*LA* 	English
+*CY* 	Copyright 2019 The Financial Times Ltd. All rights reserved.
+Please do not cut and paste FT articles and redistribute by email or
+post to the web.
+
+*LP* 
+
+	
+
+Briefs
+
+Experian abandoned its proposed acquisition of start-up rival ClearScore
+three months after the UK regulator indicated that it would block the
+transaction because it viewed the credit-checking tie-up as likely to
+stifle competition in the sector.
+
+
+*CO* 	
+exprn : Experian PLC
+
+*IN* 	
+i8395416 : Rating Agencies | ifinal : Financial Services
+
+*NS* 	
+cactio : Corporate Actions | c18 : Ownership Changes | cacqu :
+Acquisitions/Mergers | c181 : Acquisitions/Mergers/Shareholdings | ccat
+: Corporate/Industrial News | ncat : Content Types | nfact : Factiva
+Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+uk : United Kingdom | eecz : European Union Countries | eurz : Europe |
+weurz : Western Europe
+
+*PUB* 	
+The Financial Times Limited (AAIW/EIW)
+
+*AN* 	
+Document FTFT000020190228ef2s0006w
+
+
+
+*SE* 	Features
+*HD* 	Buffett was too patriotic to see through Kraft
+*BY* 	John Gapper
+*WC* 	861 words
+*PD* 	28 February 2019
+*SN* 	Financial Times
+*SC* 	FTFT
+*ED* 	1; Europe
+*PG* 	11
+*LA* 	English
+*CY* 	Copyright 2019 The Financial Times Ltd. All rights reserved.
+Please do not cut and paste FT articles and redistribute by email or
+post to the web.
+
+*LP* 
+
+	
+
+W arren Buffett never bets against the US, the country where he built
+his fortune. "The record of American business has been extraordinary ...
+We are lucky — gloriously lucky — to have that force at our back," he
+wrote in his annual letter to Berkshire Hathaway shareholders on Saturday.
+
+He should have been less patriotic about Kraft, the processed food group
+that makes staples such as Kraft Macaroni & Cheese and Velveeta, a
+bright yellow "processed cheese product". The merger that he engineered
+between Heinz and Kraft in 2015 has turned out very badly: Heinz paid
+too much for an indigestible bunch of ageing brands in the wrong country.
+
+
+*CO* 	
+kfgiz : Kraft Foods Group Inc. | bkht : Berkshire Hathaway Inc | hinzc :
+Kraft Heinz Co
+
+*IN* 	
+i41 : Food/Beverages | i8396 : Diversified Holding Companies | ibcs :
+Business/Consumer Services | icnp : Consumer Goods | ifood : Food Products
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+The Financial Times Limited (AAIW/EIW)
+
+*AN* 	
+Document FTFT000020190228ef2s0004r
+
+
+
+*HD* 	Cover Story: Ambience Mall [Gurgaon and Vasant Kunj]
+*CR* 	Distributed by Contify.com
+*WC* 	698 words
+*PD* 	28 February 2019
+*SN* 	Shopping Centre News (India)
+*SC* 	ATSHOC
+*LA* 	English
+*CY* 	Copyright © 2019. Images Multimedia
+
+*LP* 
+
+	
+
+Importance of Fashion
+
+"Access to social media, increased disposable income and infrastructure
+development has greatly enhanced fashion consciousness as well as access
+to it. Over the last decade, the concept of shopping has undergone a sea
+change in pertinence to changing consumer behaviour. The glamour and
+elegance associated with fashion is huge attention and attraction
+grabber. And with fashion going social on Pinterest, Instagram, Facebook
+and Twitter, the category has become a key focus area in our endeavor to
+deliver a wholesome experience to our patrons," says Arjun Gehlot,
+Director, Ambience Mall, Gurgaon & Vasant Kunj.
+
+
+*IN* 	
+idescl : Designer Clothing | i453 : Clothing | iclt : Clothing/Textiles
+| icnp : Consumer Goods | iluxgds : Luxury Goods
+
+*NS* 	
+gfas : Fashion | npag : Page-One Stories | gcat : Political/General News
+| glife : Living/Lifestyle | ncat : Content Types
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Images Multimedia Pvt. Ltd.
+
+*AN* 	
+Document ATSHOC0020190328ef2s0002y
+
+
+
+*HD* 	Editorial
+*BY* 	Amitabh Taneja
+*CR* 	Distributed by Contify.com
+*WC* 	376 words
+*PD* 	28 February 2019
+*SN* 	Shopping Centre News (India)
+*SC* 	ATSHOC
+*LA* 	English
+*CY* 	Copyright © 2019. Images Multimedia
+
+*LP* 
+
+	
+
+The growth trajectory of the Indian Fashion Retail Industry is on an
+all-time high. With around 400 national and international fashion brands
+operating successfully in the Indian market, it is boom time for the
+sector. Be it Tier I, II & III cities, the *Millennial* population
+everywhere is becoming more fashion conscious and is all about new
+trends in fashion, buying both offline and online.
+
+This, as well as the snow-balling popularity of social media, has opened
+unprecedented retail opportunities for the fashion industry. And mall
+developers in India have been quick to take advantage. They are
+increasingly allotting more and more space to fashion brands, which in
+turn are aggressively expanding across the country. Western wear brands,
+including fast fashion and casual wear, are also becoming more and more
+popular, expanding rapidly due to increasing consumer demand.
+
+
+*IN* 	
+idescl : Designer Clothing | i453 : Clothing | iclt : Clothing/Textiles
+| icnp : Consumer Goods | iluxgds : Luxury Goods
+
+*NS* 	
+gfas : Fashion | nedi : Editorials | cprdop : Facility Openings | c24 :
+Capacity/Facilities | ccat : Corporate/Industrial News | gcat :
+Political/General News | glife : Living/Lifestyle | ncat : Content Types
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Images Multimedia Pvt. Ltd.
+
+*AN* 	
+Document ATSHOC0020190328ef2s0000o
+
+
+
+*HD* 	Razer pay coming to Singapore
+*CR* 	Distributed by Contify.com
+*WC* 	802 words
+*PD* 	28 February 2019
+*SN* 	Contify Retail News
+*SC* 	ATRTAL
+*LA* 	English
+*CY* 	Copyright © 2019 Contify.com
+
+*LP* 
+
+	
+
+SINGAPORE, Feb. 28 -- Razer issued the following news release:
+
+- Beta access opening soon for Razer fans and gamers. Partnership with
+FOMO Pay announced.
+
+
+*IN* 	
+iretail : Retail | i64 : Retail/Wholesale
+
+*NS* 	
+ccat : Corporate/Industrial News
+
+*RE* 	
+singp : Singapore | usa : United States | apacz : Asia Pacific | asiaz :
+Asia | namz : North America | seasiaz : Southeast Asia
+
+*PUB* 	
+Athena Information Solutions Pvt. Ltd.
+
+*AN* 	
+Document ATRTAL0020190319ef2s0008k
+
+
+
+*HD* 	Gardner Denver Holdings Inc at Gabelli Pump, Valve & Water Systems
+Symposium - Final
+*WC* 	5427 words
+*PD* 	28 February 2019
+*SN* 	CQ FD Disclosure
+*SC* 	FNDW
+*LA* 	English
+*CY* 	© 2019 by CQ-Roll Call, Inc. All rights reserved.
+
+*LP* 
+
+	
+
+Presentation
+
+UNIDENTIFIED ANALYST: Okay. Up next, I'm very pleased to have joining us
+at our conference for the first time, Gardner Denver. Gardner Denver is
+a leading global provider of mission-critical flow control and
+compression equipment as well as associated aftermarket parts and
+services. The company operates through the 3 segments: Industrial,
+Energy and Medical. Gardner Denver has 199 million shares outstanding.
+The stock trades around $27, $5.3 billion market cap, $1.5 billion in
+net debt for a $6.7 billion total enterprise value.
+
+
+*CO* 	
+gardnn : Gardner Denver Holdings Inc. | kkr : KKR & Co. Inc.
+
+*IN* 	
+i32 : Machinery | i3283 : Compressors/Hydraulic Equipment | iindstrls :
+Industrial Goods
+
+*NS* 	
+ntra : Transcripts | ncat : Content Types | nfact : Factiva Filters |
+nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | niwe
+: IWE Filter
+
+*RE* 	
+usa : United States | usco : Colorado | namz : North America | usw :
+Western U.S.
+
+*PUB* 	
+CQ-Roll Call, Inc.
+
+*AN* 	
+Document FNDW000020190301ef2s0070v
+
+
+
+*HD* 	THE BALTIC TIMES MAGAZINE 2019 RELEASED, STIRS A NICE BUZZ
+*WC* 	400 words
+*PD* 	28 February 2019
+*SN* 	The Baltic Times
+*SC* 	WBLT
+*LA* 	English
+*CY* 	(c) 2019 The Baltic Times. All Rights Reserved.
+
+*LP* 
+
+	
+
+In late January The Baltic Times, the longest established English
+language newspaper in the Baltic states providing quality news and
+analyses in English for almost 20 years, introduced to a dozen of its
+distinguished guests the winter-spring edition of our new publishing
+project, an 82-page 10,000-circulation glossy magazine The Baltic Times
+winter-spring Magazine 2019.
+
+It features a wide variety of pan-Baltic articles and interviews
+covering a broad spectrum of subjects including politics, business,
+diplomacy, culture, tourism and leisure.
+
+
+*IN* 	
+i4752 : Magazine Publishing | i475 : Printing/Publishing | imed :
+Media/Entertainment | ipubl : Publishing
+
+*PUB* 	
+Baltic News Limited
+
+*AN* 	
+Document WBLT000020190315ef2s00080
+
+
+
+*HD* 	THE BALTIC TIMES MAGAZINE 2019 RELEASED, STIRS A NICE BUZZ
+*WC* 	400 words
+*PD* 	28 February 2019
+*SN* 	The Baltic Times
+*SC* 	WBLT
+*LA* 	English
+*CY* 	(c) 2019 The Baltic Times. All Rights Reserved.
+
+*LP* 
+
+	
+
+In late January The Baltic Times, the longest established English
+language newspaper in the Baltic
+
+states providing quality news and analyses in English for almost 20
+years, introduced to a dozen of
+
+
+*PUB* 	
+Baltic News Limited
+
+*AN* 	
+Document WBLT000020190315ef2s0006v
+
+
+
+*HD* 	Trendspotting: How Technology is Revolutionising the Foodservice
+Industry
+*BY* 	Charu Lamba
+*CR* 	Distributed by Contify.com
+*WC* 	935 words
+*PD* 	28 February 2019
+*SN* 	Images Retail
+*SC* 	ATIMAR
+*LA* 	English
+*CY* 	Copyright © 2019. Images Multimedia.
+
+*LP* 
+
+	
+
+We are at the beginning of the most radical transformation of the
+foodservice industry. Until now, technological innovations in the
+industry meant ordering food from an app or paying bill through tablets.
+But now restaurant owners are upping the ante, taking the game to the
+next level by experimenting with technology like never before. From
+introducing interactive smart tables and virtual bars to replacing
+servers with robots, restaurateurs are revolutionising the foodservice
+industry in the best way possible to enhance the overall customer
+experience.
+
+Interactive Smart Tables
+
+
+*IN* 	
+i662 : Bars/Public Houses | i66 : Hotels/Restaurants | ilea :
+Leisure/Arts/Hospitality
+
+*NS* 	
+ccat : Corporate/Industrial News
+
+*RE* 	
+delhi : Delhi | india : India | asiaz : Asia | bric : BRICS Countries |
+devgcoz : Emerging Market Countries | dvpcoz : Developing Economies |
+indsubz : Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Images Multimedia Pvt. Ltd.
+
+*AN* 	
+Document ATIMAR0020190314ef2s0005m
+
+
+
+*HD* 	Cover Story: Small Clothes, Big Business: India Witnesses Boom in
+Kidswear Retail
+*CR* 	Distributed by Contify.com
+*WC* 	2405 words
+*PD* 	28 February 2019
+*SN* 	Business of Fashion
+*SC* 	ATBUSF
+*LA* 	English
+*CY* 	Copyright © 2019. Images Multimedia.
+
+*LP* 
+
+	
+
+Over the last two decades, kids' dressing habits in India have witnessed
+quite a facelift. What used to be regular, similar and basic outfits a
+few years ago have now transformed into full fashion lines, often of
+premium luxury. IMAGES Business of Fashion takes a look at the market
+dynamics of one of the fastest growing sectors of fashion retail - kidswear
+
+Shivam Gautom with inputs from Rosy N Sharma
+
+
+*IN* 	
+i453 : Clothing | i654 : Specialty Retailing | iretail : Retail | i64 :
+Retail/Wholesale | iclt : Clothing/Textiles | icnp : Consumer Goods
+
+*NS* 	
+gfas : Fashion | npag : Page-One Stories | gcat : Political/General News
+| glife : Living/Lifestyle | ncat : Content Types
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Images Multimedia Pvt. Ltd.
+
+*AN* 	
+Document ATBUSF0020190314ef2s0002t
+
+
+
+*HD* 	Kids Denim Wear Market: It's all in the Jeans: Kids Denim Wear
+Experiences Upward Growth Trajectory
+*BY* 	Shivam Gautom
+*CR* 	Distributed by Contify.com
+*WC* 	1688 words
+*PD* 	28 February 2019
+*SN* 	Business of Fashion
+*SC* 	ATBUSF
+*LA* 	English
+*CY* 	Copyright © 2019. Images Multimedia.
+
+*LP* 
+
+	
+
+The kid's fashion segment is witnessing unmatched action in India over
+the last few years. The *millennial* culture has provided kids' fashion
+with a much needed boost, unveiling the true potential of the segment to
+the fashion retail fraternity
+
+Denim apparel has traversed an interesting trajectory from being a work
+wear to an attire for all occasions, for age groups, for both the
+genders across the globe. In India as well, denim no more remains a
+men's-only category, with penetration increasing in both women and kids'
+segments.
+
+
+*IN* 	
+i654 : Specialty Retailing | i64 : Retail/Wholesale | iretail : Retail
+
+*NS* 	
+gfas : Fashion | gcat : Political/General News | glife : Living/Lifestyle
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Images Multimedia Pvt. Ltd.
+
+*AN* 	
+Document ATBUSF0020190314ef2s00033
+
+
+
+*HD* 	Brand Activation: Liberty Lifestyle Further Strengthens Its
+Presence in the Market Through Strategic Partnerships And Initiatives
+*CR* 	Distributed by Contify.com
+*WC* 	412 words
+*PD* 	28 February 2019
+*SN* 	Business of Fashion
+*SC* 	ATBUSF
+*LA* 	English
+*CY* 	Copyright © 2019. Images Multimedia.
+
+*LP* 
+
+	
+
+Liberty Lifestyle has been focusing on their marketing initiatives and
+has been actively participating in various events and exhibitions to
+sustain growth and awareness for the brand.
+
+After a successful launch of its fragrance line in the country, Liberty
+Lifestyle has been focusing on their marketing initiatives and has been
+actively participating in various events and exhibitions to sustain
+growth and awareness for the brand. As part of their latest initiative,
+the brand was able to showcase a strong footprint in the NCR Region.
+Perfume lovers rejoiced at The Economic Times India Leadership Council
+as Liberty Lifestyle Perfumes were liked by the attendees.
+
+
+*NS* 	
+c31 : Marketing | ccat : Corporate/Industrial News | ncat : Content
+Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+Images Multimedia Pvt. Ltd.
+
+*AN* 	
+Document ATBUSF0020190314ef2s0002u
+
+
+
+*HD* 	NU Skin Enterprises Inc Investor Day - Final
+*WC* 	24347 words
+*PD* 	28 February 2019
+*SN* 	CQ FD Disclosure
+*SC* 	FNDW
+*LA* 	English
+*CY* 	© 2019 by CQ-Roll Call, Inc. All rights reserved.
+
+*LP* 
+
+	
+
+Presentation
+
+
+*CO* 	
+nuska : Nu Skin Enterprises, Inc
+
+*IN* 	
+icnp : Consumer Goods | ipcare : Personal Care Products/Appliances
+
+*NS* 	
+ntra : Transcripts | c32 : Advertising | c31 : Marketing | ccat :
+Corporate/Industrial News | ncat : Content Types | nfact : Factiva
+Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News
+Filter | nfcpin : C&E Industry News Filter | niwe : IWE Filter
+
+*RE* 	
+usa : United States | usut : Utah | namz : North America | usw : Western
+U.S.
+
+*PUB* 	
+CQ-Roll Call, Inc.
+
+*AN* 	
+Document FNDW000020190302ef2s008hl
+
+
+
+*HD* 	Q4 2018 Farfetch Ltd Earnings Call - Final
+*WC* 	9217 words
+*PD* 	28 February 2019
+*SN* 	CQ FD Disclosure
+*SC* 	FNDW
+*LA* 	English
+*CY* 	© 2019 by CQ-Roll Call, Inc. All rights reserved.
+
+*LP* 
+
+	
+
+Presentation
+
+OPERATOR: Good afternoon. My name is Shauntelle, and I will be your
+conference operator today. At this time, I would like to welcome
+everyone to Farfetch Fourth Quarter 2018 Results Conference Call.
+(Operator Instructions) Thank you.
+
+
+*CO* 	
+fftchc : Farfetch Ltd
+
+*IN* 	
+i64 : Retail/Wholesale | i645 : Clothing Stores | i654 : Specialty
+Retailing | iretail : Retail
+
+*NS* 	
+c151 : Earnings | ccat : Corporate/Industrial News | ntra : Transcripts
+| c15 : Financial Performance | ncat : Content Types | nfact : Factiva
+Filters | nfce : C&E Exclusion Filter | nfcpex : C&E Executive News
+Filter | nfcpin : C&E Industry News Filter | niwe : IWE Filter
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+CQ-Roll Call, Inc.
+
+*AN* 	
+Document FNDW000020190302ef2s0073m
+
+
+
+*HD* 	American Express Co at KBW Cards, Payments & Financial Technology
+Symposium - Final
+*WC* 	7169 words
+*PD* 	28 February 2019
+*SN* 	CQ FD Disclosure
+*SC* 	FNDW
+*LA* 	English
+*CY* 	© 2019 by CQ-Roll Call, Inc. All rights reserved.
+
+*LP* 
+
+	
+
+Presentation
+
+SANJAY HARKISHIN SAKHRANI, MD, KEEFE, BRUYETTE, & WOODS, INC., RESEARCH
+DIVISION: All right, we're going to get started here. Our next speaker
+is no stranger to our conference. We have Jeff Campbell, CFO of American
+Express. It's very nice to have you back, Jeff. Thank you for being here
+at this time. American Express has been on quite a journey over the past
+5 years or so, and we're finally, seeming to hit a stride here. And
+we're bullish and obviously, it seems like management is bullish about
+the intermediate term prospects.
+
+
+*CO* 	
+amexpr : American Express Co
+
+*IN* 	
+i81501 : Credit Types/Services | i8150108 : Credit Cards | ibnk :
+Banking/Credit | ifinal : Financial Services | ifmsoft : Financial
+Technology | iplastic : Electronic Payment Systems | itech : Technology
+
+*NS* 	
+ntra : Transcripts | ncat : Content Types | nfact : Factiva Filters |
+nfce : C&E Exclusion Filter | nfcpex : C&E Executive News Filter | niwe
+: IWE Filter
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+CQ-Roll Call, Inc.
+
+*AN* 	
+Document FNDW000020190301ef2s007hh
+
+
+
+*HD* 	Parental Paradox: Trying to save for retirement while supporting
+adult children - RBC Poll
+*CR* 	Distributed by Contify.com
+*WC* 	757 words
+*PD* 	28 February 2019
+*SN* 	Contify Banking News
+*SC* 	ATINBK
+*LA* 	English
+*CY* 	Copyright © 2019. Contify.com
+
+*LP* 
+
+	
+
+TORONTO, Feb. 28 -- Royal Bank of Canada issued the following news release:
+
+- Canadian parents report they're happy to provide support but is
+retirement in jeopardy?
+
+
+*CO* 	
+royca : Royal Bank of Canada
+
+*IN* 	
+i814 : Banking | ibnk : Banking/Credit | ifinal : Financial Services |
+iibnk : Integrated Banks
+
+*NS* 	
+gpersf : Personal Finance | gretir : Retirement Planning | gcat :
+Political/General News
+
+*RE* 	
+cana : Canada | caon : Ontario | namz : North America
+
+*PUB* 	
+Athena Information Solutions Pvt. Ltd.
+
+*AN* 	
+Document ATINBK0020190304ef2s0008q
+
+
+
+*SE* 	CE Noticias Financieras English
+*HD* 	Niche exports: entrepreneurs who open markets with innovation
+*WC* 	2376 words
+*PD* 	28 February 2019
+*SN* 	CE NoticiasFinancieras
+*SC* 	NFINCE
+*LA* 	English
+*CY* 	Copyright © Content Engine LLC
+
+*LP* 
+
+	
+
+In recent years, several shipments went abroad with the label made in
+Argentina. They were distributed around the world: slippers that can be
+heated in the microwave arrived in the United States, in Japan they
+received a three-dimensional reproduction of a female breast and in
+Russia, ropes for the balalaika, a typical instrument of the Slavic
+country. The three examples are real and are part of an entrepreneurial
+ecosystem that sends its niche products abroad and tries to win markets
+with quality and specialty as flags, and in some cases, far from
+competing for price. For niche products, a small domestic market is not
+enough. When growth depends on reaching a higher volume, the possibility
+of exporting is presented as a healthy alternative. The jump of the
+exchange rate in 2018 encouraged several entrepreneurs to take their
+first steps outside despite common problems to place products in other
+markets.
+
+
+*IN* 	
+i492 : Musical Instruments | icnp : Consumer Goods | ilgood :
+Leisure/Travel Goods
+
+*NS* 	
+c312 : Corporate/Industry Exports | centrp : Entrepreneurs/Startups |
+ccat : Corporate/Industrial News | csmlbs : Small/Medium Businesses |
+npress : Press Releases | cdom : Domestic/Foreign Markets | ncat :
+Content Types | nfact : Factiva Filters | nfcpex : C&E Executive News Filter
+
+*RE* 	
+arg : Argentina | usa : United States | mex : Mexico | jap : Japan |
+chil : Chile | bueair : Buenos Aires | santi : Santiago (Chile) | apacz
+: Asia Pacific | asiaz : Asia | devgcoz : Emerging Market Countries |
+dvpcoz : Developing Economies | easiaz : Eastern Asia | lamz : Latin
+America | namz : North America | samz : South America
+
+*PUB* 	
+Content Engine LLC
+
+*AN* 	
+Document NFINCE0020190304ef2s002i2
+
+
+
+*HD* 	Social media can have a negative impact on your financial wellness
+*BY* 	Melissa Browne
+*WC* 	958 words
+*PD* 	28 February 2019
+*ET* 	06:50
+*SN* 	The Age - Online
+*SC* 	AGEEOL
+*LA* 	English
+*CY* 	Copyright © 2019 Fairfax Media Publications Pty Limited.
+www.theage.com.au[http://www.theage.com.au]. Not available for
+redistribution
+
+*LP* 
+
+	
+
+Last week, as I was scrolling through social media, I was stopped by a
+post that at first glance might seem quite innocuous. It read, "Travel.
+Your money will return. Your time won't."
+
+When I checked today, this post had received almost 3,800 likes and
+almost 200 comments. Most of them were positive, almost cheering, saying
+they needed to hear that today, or tagging friends and suggesting they
+take a trip.
+
+
+*NS* 	
+gcele : Celebrities | gcat : Political/General News | glife :
+Living/Lifestyle
+
+*RE* 	
+austr : Australia | apacz : Asia Pacific | ausnz : Australia/Oceania
+
+*IPD* 	
+Planning | Celebrity
+
+*PUB* 	
+Fairfax Media Management Pty Limited
+
+*AN* 	
+Document AGEEOL0020190303ef2s000rv
+
+
+
+*SE* 	News
+*HD* 	Pete Buttigieg comes to Claremont to campaign for president – and
+talk about big ideas
+*BY* 	Jeff Horseman
+*WC* 	798 words
+*PD* 	28 February 2019
+*SN* 	Daily Breeze
+*SC* 	CABREEZE
+*PG* 	n/a
+*LA* 	English
+*CY* 	Copyright © 2019 ProQuest Information and Learning Company. All
+rights reserved.
+
+*LP* 
+
+	
+
+Cheers greeted Pete Buttigieg when he took the stage at Scripps College
+in Claremont.
+
+“Wow! It’s like you’re (polling) at 2 percent,” quipped political
+journalist Peter Hamby, who interviewed Buttigieg in an hourlong public
+event Wednesday night, Feb. 27.
+
+
+*NS* 	
+gpol : Domestic Politics | gvote : Elections | gvote1 :
+National/Presidential Elections | gcat : Political/General News | gpir :
+Politics/International Relations
+
+*RE* 	
+usa : United States | afgh : Afghanistan | puri : Puerto Rico | asiaz :
+Asia | caribz : Caribbean Islands | casiaz : Central Asia | dvpcoz :
+Developing Economies | lamz : Latin America | namz : North America
+
+*IPD* 	
+Newspapers | Los Angeles Newspaper Group | News
+
+*PUB* 	
+MediaNews Group Inc.
+
+*AN* 	
+Document CABREEZE20190302ef2s0002z
+
+
+
+*CLM* 	Off Duty Travel
+*SE* 	Life
+*HD* 	Room-Service Carbs, Airport Cocktails and Other Guilty Travel
+Pleasures; We asked three jet-setting notables—Aerin Lauder, Paula Zahn
+and novelist Andrew Sean Greer—to confess their vacation vices
+*BY* 	By Jennifer Fernandez
+*WC* 	439 words
+*PD* 	28 February 2019
+*ET* 	19:23
+*SN* 	The Wall Street Journal Online
+*SC* 	WSJO
+*LA* 	English
+*CY* 	Copyright 2019 Dow Jones & Company, Inc. All Rights Reserved.
+
+*LP* 
+
+	
+
+Aerin Lauder
+
+Founder of beauty and lifestyle brand Aerin
+
+
+*IN* 	
+i764 : Airports | itsp : Transportation/Logistics | iairtr : Air Transport
+
+*NS* 	
+glife : Living/Lifestyle | gcon : Consumer Affairs | gtour : Travel |
+ncolu : Columns | gcat : Political/General News | gcom :
+Society/Community | ncat : Content Types
+
+*IPC* 	
+I/ATR | I/TRS | M/TRSH | N/GEN | N/LIF | N/TVL
+
+*IPD* 	
+WSJ | WSJ.com | WSJ.com Site Search | WSJAsia | WSJEurope | WSJ Japanese
+| Online | WSJ-PRO-WSJ.com | WSJSunday | AIRPORT BARS | AIRPORTS |
+AIRPORT SECURITY | CANDY | CHAMPAGNE | GUILTY PLEASURES | IPHONE |
+PHOTOS | PHOTOS OF THE DAY |
+SB104142055888884835274045851366711126204741 | SYND | CODES_REVIEWED |
+Off Duty Travel
+
+*PUB* 	
+Dow Jones & Company, Inc.
+
+*AN* 	
+Document WSJO000020190228ef2s006bt
+
+
+
+*SE* 	News
+*HD* 	Nearly two-thirds of *Millennial* homeowners regret buying a house
+- more than any other generation
+*BY* 	Valerie Bauman Social Affairs Reporter For Dailymail.com
+*WC* 	587 words
+*PD* 	28 February 2019
+*ET* 	23:59
+*SN* 	Mail Online
+*SC* 	DAMONL
+*LA* 	English
+*CY* 	Copyright 2019
+
+*LP* 
+
+	
+
+* Nearly half (44%) of all U.S. homeowners have regrets about their purchase
+
+* Millennials are the most likely to express remorse (63%), followed by
+Generation X (53%), Baby Boomers (35%) and the Silent Generation (33%)
+
+
+*NS* 	
+gcoho : Generational Cohorts | gcat : Political/General News | gcom :
+Society/Community
+
+*RE* 	
+uk : United Kingdom | eecz : European Union Countries | eurz : Europe |
+weurz : Western Europe
+
+*PUB* 	
+DMG Media Limited
+
+*AN* 	
+Document DAMONL0020190228ef2s007et
+
+
+
+*SE* 	Style
+*HD* 	The Cutest Animal on Instagram Is Possibly in Your Trash Can
+*BY* 	By Gray Chapman
+*WC* 	2544 words
+*PD* 	28 February 2019
+*ET* 	08:00
+*SN* 	NYTimes.com Feed
+*SC* 	NYTFEED
+*LA* 	English
+*CY* 	Copyright 2019. The New York Times Company. All Rights Reserved.
+
+*LP* 
+
+	
+
+ATLANTA — The supplicants came bearing tithes. Salted cashews, a plastic
+fruit cup, homemade crafts. The guest of honor, a Virginia opossum named
+Starfish, sat curled atop a pink fleece bomber jacket, spitting out
+chewed-up almond detritus. The animal appeared indifferent to the point
+of distraction, beady eyes staring far past the shelves of combat boots
+surrounding her and into some unknown realm.
+
+“Sometimes she falls asleep with her eyes open,” said Ally Burguieres,
+Starfish’s caretaker, to a fan.
+
+
+*NS* 	
+genv : Natural Environment | gcat : Political/General News
+
+*RE* 	
+usga : Georgia (US) | usa : United States | namz : North America | uss :
+Southern U.S.
+
+*IPD* 	
+Opossums | Raccoons | SKUNKS | Pets | Social Media | News
+
+*PUB* 	
+The New York Times Company
+
+*AN* 	
+Document NYTFEED020190228ef2s001md
+
+
+
+*SE* 	Business
+*HD* 	Elon Musk: Low-priced Tesla coming to the U.S.
+*WC* 	330 words
+*PD* 	28 February 2019
+*SN* 	Abbotsford News
+*SC* 	ABBNWS
+*ED* 	Final
+*LA* 	English
+*CY* 	Copyright 2019 Black Press, Inc. All Rights Reserved.
+
+*LP* 
+
+	
+
+Abbotsford News -- Three years after he promised to sell an all-electric
+Model 3 mass-market sedan for $35,000 before incentives, Elon Musk is
+finally coming through. The Tesla Inc. chief executive announced
+Thursday that a low-priced, range version will soon be available in the U.S.
+
+Musk also announced that the company's cars will be sold online only.
+Retail stores will be converted into showrooms and information centers,
+he said. He didn't say how many stores will close, or whether the shift
+will affect the company's workforce.
+
+
+*CO* 	
+teslmi : Tesla, Inc.
+
+*IN* 	
+i351 : Motor Vehicles | i35104 : Alternative Fuel Vehicles | iaut :
+Automotive
+
+*NS* 	
+c151 : Earnings | ccat : Corporate/Industrial News | c15 : Financial
+Performance | ncat : Content Types | nfact : Factiva Filters | nfcpin :
+C&E Industry News Filter
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+Black Press Inc.
+
+*AN* 	
+Document ABBNWS0020190301ef2s0000e
+
+
+
+*HD* 	14 ways Indian audiences are re-imagining consumer brands of the
+future
+*BY* 	Vinay Dora
+*CR* 	Distributed by Contify.com
+*WC* 	819 words
+*PD* 	28 February 2019
+*SN* 	Your Story
+*SC* 	ATYOST
+*LA* 	English
+*CY* 	Copyright © 2019 Your Story.
+
+*LP* 
+
+	
+
+How does a country like India straddle its ancient spiritual wisdom and
+modern consumerist aspirations?
+
+For far too long consumerism in a spiritual nation like India has had an
+uneasy narrative to follow. However, today, thanks to various success
+stories, including those via Indian spiritual leaders, we are showing
+the world that one's spiritual inclinations can definitely co-exist with
+the desire to pursue comfortable lifestyles, as well as in building,
+purchasing, and promoting newer brands.
+
+
+*NS* 	
+cbrand : Branding | glife : Living/Lifestyle | c31 : Marketing | ccat :
+Corporate/Industrial News | gcat : Political/General News | ncat :
+Content Types | nfact : Factiva Filters | nfcpin : C&E Industry News Filter
+
+*RE* 	
+india : India | asiaz : Asia | bric : BRICS Countries | devgcoz :
+Emerging Market Countries | dvpcoz : Developing Economies | indsubz :
+Indian Subcontinent | sasiaz : Southern Asia
+
+*PUB* 	
+YourStory.in
+
+*AN* 	
+Document ATYOST0020190301ef2s0000a
+
+
+
+*HD* 	Comment: Millennials can bridge manufacturing skills gap
+*BY* 	LAURA STARRETT
+*WC* 	624 words
+*PD* 	28 February 2019
+*SN* 	The Scotsman
+*SC* 	SC
+*LA* 	English
+*CY* 	© 2019 Johnston Publishing Limited
+
+*LP* 
+
+	
+
+To address the manufacturing industry's digital skills gap, more needs
+to be done to make the sector more attractive to millennials. A recent
+survey for Barclays Corporate Banking showed that only six per cent of
+16 to 23-year-olds are considering a career in manufacturing.
+
+Our own study "The future of the automotive industry: Navigating the
+skills gap" found that just 19 per cent of students declared a STEM
+(science, technology, engineering or mathematics) subject as a
+favourite, with double that number favouring arts and humanities. There
+was also a clear reticence to undertake work-based or vocational
+education, with only 12 per cent of the students surveyed preferring
+hands-on learning and only 9 percent interested in apprenticeships.
+
+
+*NS* 	
+gcoho : Generational Cohorts | gcrpln : Career Planning/Management |
+nedc : Commentaries/Opinions | nedi : Editorials | gcat :
+Political/General News | gcom : Society/Community | gjob : General Labor
+Issues | ncat : Content Types | nfact : Factiva Filters | nfcpex : C&E
+Executive News Filter
+
+*RE* 	
+scot : Scotland | eecz : European Union Countries | eurz : Europe | uk :
+United Kingdom | weurz : Western Europe
+
+*IPD* 	
+Columnists | economy business and finance | economic sector |
+manufacturing and engineering
+
+*PUB* 	
+The Scotsman Publications Limited
+
+*AN* 	
+Document SC00000020190301ef2s00107
+
+
+
+*HD* 	Comment: Millennials can bridge manufacturing skills gap
+*BY* 	LAURA STARRETT
+*WC* 	624 words
+*PD* 	28 February 2019
+*SN* 	The Scotsman
+*SC* 	SC
+*LA* 	English
+*CY* 	© 2019 Johnston Publishing Limited
+
+*LP* 
+
+	
+
+To address the manufacturing industry's digital skills gap, more needs
+to be done to make the sector more attractive to millennials. A recent
+survey for Barclays Corporate Banking showed that only six per cent of
+16 to 23-year-olds are considering a career in manufacturing.
+
+Our own study "The future of the automotive industry: Navigating the
+skills gap" found that just 19 per cent of students declared a STEM
+(science, technology, engineering or mathematics) subject as a
+favourite, with double that number favouring arts and humanities. There
+was also a clear reticence to undertake work-based or vocational
+education, with only 12 per cent of the students surveyed preferring
+hands-on learning and only 9 percent interested in apprenticeships.
+
+
+*NS* 	
+gcoho : Generational Cohorts | gcrpln : Career Planning/Management |
+nedc : Commentaries/Opinions | nedi : Editorials | gcat :
+Political/General News | gcom : Society/Community | gjob : General Labor
+Issues | ncat : Content Types | nfact : Factiva Filters | nfcpex : C&E
+Executive News Filter
+
+*RE* 	
+scot : Scotland | eecz : European Union Countries | eurz : Europe | uk :
+United Kingdom | weurz : Western Europe
+
+*IPD* 	
+Columnists | economy business and finance | economic sector |
+manufacturing and engineering
+
+*PUB* 	
+The Scotsman Publications Limited
+
+*AN* 	
+Document SC00000020190301ef2s00106
+
+
+
+*HD* 	Columbia Records' Signees Lil Tjay, Polo G & Yung Bleu Show
+Promise at NYC's Sony Hall
+*BY* 	Bianca Alysse
+*WC* 	1062 words
+*PD* 	28 February 2019
+*SN* 	Billboard
+*SC* 	BBRD
+*LA* 	English
+*CY* 	Copyright 2019, Nielsen Business Media. All rights reserved.
+
+*LP* 
+
+	
+
+Columbia Records is home to some of music's most loved artists,
+including Beyoncé, The Chainsmokers and Pharrell Williams. At NYC's Sony
+Hall on Wednesday, (Feb.27) the label aimed to champion for what their
+team had in store with a showcase titled Columbia Records The Draft
+2019. Recent signees Lil Tjay, Polo G, Yung Bleu and a couple of their
+surprise guests stepped up to earn stripes in the city that is notorious
+for sending hip-hop acts home with hurt feelings.
+
+
+*NS* 	
+gmusic : Music | gcele : Celebrities | gcat : Political/General News |
+gent : Arts/Entertainment | glife : Living/Lifestyle
+
+*RE* 	
+usny : New York State | namz : North America | usa : United States | use
+: Northeast U.S.
+
+*IPD* 	
+NEWS | TAG
+
+*PUB* 	
+VNU eMedia, Inc.
+
+*AN* 	
+Document BBRD000020190301ef2s00035
+
+
+
+*SE* 	Opinion
+*HD* 	The California Republican Party now belongs to the House’s Kevin
+McCarthy
+*BY* 	John Phillips
+*WC* 	668 words
+*PD* 	28 February 2019
+*SN* 	Los Angeles Daily News
+*SC* 	LAD
+*PG* 	n/a
+*LA* 	English
+*CY* 	© 2019 Los Angeles Daily News. Provided by ProQuest Information
+and Learning. All rights reserved.
+
+*LP* 
+
+	
+
+After a weekend of intense campaigning, delegate cajoling and vigorous
+debate, California Republicans selected Kevin McCarthy ally Jessica
+Patterson as the next chairwoman of the CRP at their spring convention
+in Sacramento. Patterson, a *millennial* Latina, defeated former
+Assemblyman Travis Allen, R-Huntington Beach, and longtime party
+activist Steve Frank.
+
+As first order of business, the Ventura County resident will now be
+tasked with bringing the party’s voter registration numbers out of the
+basement, winning back legislative seats that were lost in the November
+election and changing the public perception of a party that former
+Governor Arnold Schwarzenegger said was “dying at the box office.”
+
+
+*NS* 	
+gpol : Domestic Politics | gvexe : Executive Branch | gcele :
+Celebrities | gvote : Elections | gvote1 : National/Presidential
+Elections | nedc : Commentaries/Opinions | gcat : Political/General News
+| glife : Living/Lifestyle | gpir : Politics/International Relations |
+gvbod : Government Bodies | ncat : Content Types | nfact : Factiva
+Filters | nfcpex : C&E Executive News Filter
+
+*RE* 	
+usca : California | usa : United States | namz : North America | usw :
+Western U.S.
+
+*IPD* 	
+Newspapers | Los Angeles Newspaper Group | Commentary | Opinion |
+Opinion columns
+
+*PUB* 	
+Los Angeles Newspaper Group
+
+*AN* 	
+Document LAD0000020190301ef2s0005n
+
+
+
+*SE* 	Daily
+*HD* 	TJX Stock Isn't a Bargain, Despite Solid Earnings, Analyst Says
+*BY* 	By Daren Fonda
+*WC* 	770 words
+*PD* 	28 February 2019
+*ET* 	21:45
+*SN* 	Barron's Online
+*SC* 	BON
+*LA* 	English
+*CY* 	Copyright 2019 Dow Jones & Company, Inc. All Rights Reserved.
+
+*LP* 
+
+	
+
+While discount retailer TJX Cos. has lots of fans on Wall
+Street—especially after reporting solid fourth-quarter earnings on
+Wednesday—UBS analyst Jay Sole isn't one of them.
+
+Of the 29 analysts who cover the stock (ticker: TJX), Sole is the only
+one with a Sell rating, according to FactSet. In a note on Thursday, he
+raised his price target by a dollar, to $43. But he reiterated his bear
+case, arguing the stock still has 17% downside from recent levels.
+
+
+*CO* 	
+zy : The TJX Companies Inc
+
+*IN* 	
+i64 : Retail/Wholesale | i654 : Specialty Retailing | iretail : Retail |
+i645 : Clothing Stores
+
+*NS* 	
+c151 : Earnings | c1521 : Analysts' Comments/Recommendations | ccat :
+Corporate/Industrial News | c15 : Financial Performance | ncat : Content
+Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpin :
+C&E Industry News Filter
+
+*IPC* 	
+AMZN | BURL | I/RTS | I/SAP | I/XFFX | M/RTWS | N/ANL | N/ARG | N/CNW |
+N/ERN | N/PFM | TJX | UBS
+
+*IPD* 	
+Feature | BARFEATURE | Consumer | BARCONSUMER | Barrons.com | Fortune
+500 | xf500 | S&P 500 | SPX |
+SB524488615520096144871045851522829484889081 | SYND | CODES_REVIEWED
+
+*PUB* 	
+Dow Jones & Company, Inc.
+
+*AN* 	
+Document BON0000020190228ef2s002mh
+
+
+
+*HD* 	Global Smart TV Market 2019 Analysis by Types, Demand by Screen
+Resolution, Screen Size, Current Trends, Competitive Landscape,
+Strategies and Industry Growth with 7.4% of CAGR by Forecast 2023
+*WC* 	1452 words
+*PD* 	28 February 2019
+*SN* 	M2 Presswire
+*SC* 	MTPW
+*LA* 	English
+*CY* 	© 2019, M2 Communications. All rights reserved.
+
+*LP* 
+
+	
+
+“The Exhaustive Study for “Global Smart TV Market” Research Report is
+added on Orbisresearch.com database. The report covers the market
+landscape and its growth prospects over the coming years. The report
+also includes a discussion of the key vendors operating in this
+market.”New Report on “Global Smart TV Market” added to
+Orbisresearch.com database. The report provides an extensive research
+and detailed analysis of the present market along with future outlook.
+The report also provide detail analysis of the market structure along
+with forecast, market size & share, various segments and Growing factors
+of the Smart TV Industry.
+
+
+*NS* 	
+npress : Press Releases | c1521 : Analysts' Comments/Recommendations |
+ccat : Corporate/Industrial News | ncat : Content Types | nfact :
+Factiva Filters | nfce : C&E Exclusion Filter
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+Normans Media Ltd
+
+*AN* 	
+Document MTPW000020190301ef2s0020a
+
+
+
+*HD* 	15 Classic Campaigns From African-American Creatives That Helped
+Shape Advertising
+*BY* 	Erik Oster
+*WC* 	3071 words
+*PD* 	28 February 2019
+*SN* 	Adweek
+*SC* 	ADWE
+*LA* 	English
+*CY* 	Copyright 2019. Adweek
+
+*LP* 
+
+	
+
+Conversations surrounding diversity and inclusion—or, more pointedly,
+the lack thereof—have become a regular occurrence in the ad industry.
+Unfortunately, less attention is paid to the monumental creative
+accomplishments made by people of color throughout the discipline’s
+history. The work they’ve produced over the past 50-plus years has
+played a vital role in defining advertising as we know it today, even if
+most of their names are not as well-known as those of other industry icons.
+
+“We have these same conversations [around diversity in advertising], and
+there seems to be no traction, but those conversations are easy to
+sell,” said VCU Brandcenter executive director and former JWT Atlanta
+CCO Vann Graves. “Whereas where there are successes, they’re rarely
+celebrated.”
+
+
+*RE* 	
+usga : Georgia (US) | usor : Oregon | namz : North America | usa :
+United States | uss : Southern U.S. | usw : Western U.S.
+
+*IPD* 	
+NEWS | TAG
+
+*PUB* 	
+Adweek, LLC
+
+*AN* 	
+Document ADWE000020190301ef2s0000g
+
+
+
+*SE* 	Insurance
+*HD* 	An ideal guide for millennials to buy life insurance
+*WC* 	828 words
+*PD* 	28 February 2019
+*SN* 	Financial Express Online
+*SC* 	FIEXON
+*LA* 	English
+*CY* 	Copyright 2019. Indian Express Group
+
+*LP* 
+
+	
+
+Millennials usually think that why do they need a life insurance policy?
+Is it worth investing in such a plan or how this policy can benefit me?
+
+The answers to these questions are that there are a number of reasons
+for buying a Life Insurance Policy. Getting married, buying a new house
+or having kids or dependents could be some of those.
+
+
+*IN* 	
+i82002 : Life Insurance | i82 : Insurance | ifinal : Financial Services
+
+*NS* 	
+gcoho : Generational Cohorts | gcat : Political/General News | gcom :
+Society/Community
+
+*PUB* 	
+Indian Express Group
+
+*AN* 	
+Document FIEXON0020190301ef2s0001l
+
+
+
+*HD* 	Dating in Our Society
+*WC* 	537 words
+*PD* 	28 February 2019
+*SN* 	U-Wire
+*SC* 	UWIR
+*LA* 	English
+*CY* 	© 2019, M2 Communications. All rights reserved.
+
+*LP* 
+
+	
+
+University of Massachusetts - Boston ; Boston, MA - news
+
+By Grace Smith
+
+
+*CO* 	
+uusmab : University of Massachusetts Boston | fjfvpl : Snap Inc.
+
+*IN* 	
+i3302 : Computers/Consumer Electronics | i330202 : Software | i3302021 :
+Applications Software | icmsw : Communications Software | icomp :
+Computing | itech : Technology
+
+*NS* 	
+guni : University/College | gcat : Political/General News | gedu : Education
+
+*RE* 	
+boston : Boston | usma : Massachusetts | usa : United States | namz :
+North America | use : Northeast U.S. | usnew : New England
+
+*PUB* 	
+Normans Media Ltd
+
+*AN* 	
+Document UWIR000020190301ef2s0009y
+
+
+
+*SE* 	Opinion
+*HD* 	Emma Teitel: Ariana Grande is headlining the Manchester Pride Live
+event in the U.K. So what?
+*BY* 	Emma Teitel
+*WC* 	853 words
+*PD* 	28 February 2019
+*SN* 	The Toronto Star
+*SC* 	TOR
+*PG* 	0
+*LA* 	English
+*CY* 	Copyright (c) 2019 The Toronto Star
+
+*LP* 
+
+	
+
+Ariana Grande makes me feel old. Not quite geriatric, but out of touch.
+
+This is probably because I'm an old *millennial*.
+
+
+*NS* 	
+gcele : Celebrities | glgbt : LGBT Rights | nedc : Commentaries/Opinions
+| gcat : Political/General News | gcom : Society/Community | ghum :
+Human Rights/Civil Liberties | glife : Living/Lifestyle | ncat : Content
+Types | nfact : Factiva Filters | nfcpex : C&E Executive News Filter
+
+*RE* 	
+eland : England | uk : United Kingdom | eecz : European Union Countries
+| eurz : Europe | weurz : Western Europe
+
+*PUB* 	
+Toronto Star Newspapers Limited
+
+*AN* 	
+Document TOR0000020190228ef2s001ur
+
+
+
+*SE* 	FEEGA
+*HD* 	Government and Amazon Can’t Save the Rural Job Market, but Remote
+Work Just Might
+*BY* 	Foundation For Economic Education
+*WC* 	894 words
+*PD* 	28 February 2019
+*SN* 	CE Think Tank Newswire
+*SC* 	CETTEN
+*LA* 	English
+*CY* 	CE Think Tank Wire
+
+*LP* 
+
+	
+
+It’s no secret that many small towns in America are facing an economic
+crisis where there simply aren’t enough jobs to go around. As a result,
+many states are losing young talent to major metropolitan cities that
+offer better career opportunities—and rural America is being hit the
+hardest. Add in the reality that the *millennial* generation is saddled
+with record levels of student debt, and the chances of young
+professionals staying in their small cities and rural towns to pursue a
+career are lower than ever. Clearly, something needs to be done to keep
+local economies going, and that doesn’t mean government handouts.
+
+
+*CO* 	
+itaxep : Institute on Taxation and Economic Policy
+
+*NS* 	
+ctcom : Telecommuting | gpol : Domestic Politics | gjob : General Labor
+Issues | c42 : Labor/Personnel | ccat : Corporate/Industrial News | gcat
+: Political/General News | gpir : Politics/International Relations |
+ncat : Content Types | nfact : Factiva Filters | nfcpin : C&E Industry
+News Filter
+
+*RE* 	
+usa : United States | namz : North America
+
+*PUB* 	
+Content Engine LLC
+
+*AN* 	
+Document CETTEN0020190228ef2s000xf
+
+
+
+© 2020 Factiva, Inc. All rights reserved. 	
+ 
+
